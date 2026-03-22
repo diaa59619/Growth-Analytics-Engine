@@ -2,7 +2,21 @@
 
 <img width="1919" height="1028" alt="Screenshot 2026-03-22 120257" src="https://github.com/user-attachments/assets/1e5f5d46-dc75-402c-a5ff-69cf8ce6e4e9" />
 
+## 🔥 Key Findings
 
+- Indonesia contributes ~24% of total engagement
+- Drama & Action account for ~55% of watch time
+- Premium users show ~35% higher engagement
+- Instagram campaigns achieve highest conversion (~23%)
+- Funnel drop-off from click → conversion is ~50%
+
+- ## 💡 Business Impact
+
+- Improved targeting for high-value regions
+- Identified content investment priorities
+- Highlighted inefficient marketing channels
+- Suggested funnel optimization strategies
+- 
 ## 🚀 Objective
 
 To analyze user behavior, content performance, and marketing campaign effectiveness in Southeast Asia (SEA) and identify actionable growth opportunities.
