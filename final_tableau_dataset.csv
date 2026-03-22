@@ -1,0 +1,582 @@
+User_ID,Content_ID,Watch_Time,Sessions,Date,Total_Engagement,Region,Age_Group,Subscription_Type,Content_Name,Genre,Release_Type,Campaign_ID,Clicked,Converted,Channel,Campaign_Type,Cost,Engagement
+207,25,43,2,2024-01-01,86,Philippines,45+,Free Trial,Content_25,Drama,Movie,,,,,,,86
+47,90,67,7,2024-01-02,469,Thailand,25-34,Premium,Content_90,Horror,Series,16.0,0.0,0.0,Facebook,Conversion,671.0,469
+127,75,50,5,2024-01-03,250,Philippines,25-34,Basic,Content_75,Comedy,Series,36.0,0.0,0.0,Facebook,Awareness,566.0,250
+127,75,50,5,2024-01-03,250,Philippines,25-34,Basic,Content_75,Comedy,Series,13.0,1.0,0.0,YouTube,Conversion,524.0,250
+127,75,50,5,2024-01-03,250,Philippines,25-34,Basic,Content_75,Comedy,Series,34.0,0.0,0.0,Google Ads,Awareness,955.0,250
+56,38,92,5,2024-01-04,460,Indonesia,35-44,Free Trial,Content_38,Comedy,Movie,,,,,,,460
+214,2,15,6,2024-01-05,90,Thailand,18-24,Basic,Content_2,Drama,Movie,21.0,0.0,0.0,YouTube,Retention,341.0,90
+214,2,15,6,2024-01-05,90,Thailand,18-24,Basic,Content_2,Drama,Movie,41.0,1.0,0.0,YouTube,Awareness,200.0,90
+14,7,66,9,2024-01-06,594,Thailand,18-24,Premium,Content_7,Horror,Movie,30.0,0.0,0.0,Google Ads,Awareness,825.0,594
+14,7,66,9,2024-01-06,594,Thailand,18-24,Premium,Content_7,Horror,Movie,9.0,0.0,1.0,Google Ads,Awareness,291.0,594
+218,82,81,6,2024-01-07,486,Malaysia,45+,Free Trial,Content_82,Comedy,Movie,20.0,0.0,0.0,Instagram,Conversion,109.0,486
+28,91,157,8,2024-01-08,1256,Thailand,18-24,Premium,Content_91,Drama,Movie,22.0,0.0,0.0,YouTube,Conversion,925.0,1256
+28,91,157,8,2024-01-08,1256,Thailand,18-24,Premium,Content_91,Drama,Movie,17.0,0.0,0.0,Facebook,Conversion,659.0,1256
+215,34,56,7,2024-01-09,392,Vietnam,45+,Free Trial,Content_34,Comedy,Movie,,,,,,,392
+78,91,8,9,2024-01-10,72,Malaysia,45+,Free Trial,Content_91,Drama,Movie,,,,,,,72
+216,17,63,4,2024-01-11,252,Vietnam,35-44,Basic,Content_17,Documentary,Series,31.0,1.0,1.0,Facebook,Awareness,299.0,252
+216,17,63,4,2024-01-11,252,Vietnam,35-44,Basic,Content_17,Documentary,Series,44.0,0.0,0.0,Facebook,Conversion,299.0,252
+130,43,76,2,2024-01-12,152,Philippines,18-24,Free Trial,Content_43,Drama,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,152
+109,59,152,7,2024-01-13,1064,Vietnam,25-34,Basic,Content_59,Comedy,Movie,12.0,1.0,0.0,YouTube,Conversion,492.0,1064
+109,59,152,7,2024-01-13,1064,Vietnam,25-34,Basic,Content_59,Comedy,Movie,26.0,0.0,0.0,Facebook,Awareness,814.0,1064
+154,51,97,6,2024-01-14,582,Indonesia,45+,Premium,Content_51,Documentary,Movie,10.0,0.0,1.0,YouTube,Conversion,116.0,582
+154,51,97,6,2024-01-14,582,Indonesia,45+,Premium,Content_51,Documentary,Movie,42.0,0.0,0.0,Instagram,Retention,107.0,582
+154,51,97,6,2024-01-14,582,Indonesia,45+,Premium,Content_51,Documentary,Movie,21.0,1.0,0.0,YouTube,Retention,341.0,582
+14,54,67,1,2024-01-15,67,Thailand,18-24,Premium,Content_54,Documentary,Movie,30.0,0.0,0.0,Google Ads,Awareness,825.0,67
+14,54,67,1,2024-01-15,67,Thailand,18-24,Premium,Content_54,Documentary,Movie,9.0,0.0,1.0,Google Ads,Awareness,291.0,67
+187,24,58,9,2024-01-16,522,Philippines,18-24,Basic,Content_24,Drama,Series,,,,,,,522
+56,25,121,9,2024-01-17,1089,Indonesia,35-44,Free Trial,Content_25,Drama,Movie,,,,,,,1089
+115,71,114,2,2024-01-18,228,Indonesia,25-34,Free Trial,Content_71,Horror,Series,49.0,0.0,1.0,Facebook,Awareness,720.0,228
+7,52,78,3,2024-01-19,234,Vietnam,25-34,Premium,Content_52,Comedy,Series,10.0,1.0,0.0,YouTube,Conversion,116.0,234
+7,52,78,3,2024-01-19,234,Vietnam,25-34,Premium,Content_52,Comedy,Series,22.0,0.0,0.0,YouTube,Conversion,925.0,234
+3,70,111,5,2024-01-20,555,Vietnam,45+,Free Trial,Content_70,Drama,Series,30.0,1.0,0.0,Google Ads,Awareness,825.0,555
+111,88,61,5,2024-01-21,305,Indonesia,25-34,Free Trial,Content_88,Comedy,Movie,,,,,,,305
+151,33,173,1,2024-01-22,173,Indonesia,45+,Premium,Content_33,Action,Movie,,,,,,,173
+238,49,7,8,2024-01-23,56,Malaysia,25-34,Free Trial,Content_49,Action,Movie,21.0,0.0,0.0,YouTube,Retention,341.0,56
+238,49,7,8,2024-01-23,56,Malaysia,25-34,Free Trial,Content_49,Action,Movie,34.0,0.0,0.0,Google Ads,Awareness,955.0,56
+107,29,124,8,2024-01-24,992,Vietnam,25-34,Premium,Content_29,Documentary,Series,15.0,0.0,0.0,YouTube,Awareness,229.0,992
+107,29,124,8,2024-01-24,992,Vietnam,25-34,Premium,Content_29,Documentary,Series,36.0,1.0,0.0,Facebook,Awareness,566.0,992
+107,29,124,8,2024-01-24,992,Vietnam,25-34,Premium,Content_29,Documentary,Series,36.0,1.0,1.0,Facebook,Awareness,566.0,992
+107,29,124,8,2024-01-24,992,Vietnam,25-34,Premium,Content_29,Documentary,Series,11.0,0.0,0.0,Facebook,Retention,219.0,992
+239,63,10,4,2024-01-25,40,Philippines,25-34,Basic,Content_63,Action,Movie,25.0,0.0,0.0,Google Ads,Awareness,383.0,40
+237,22,9,7,2024-01-26,63,Indonesia,45+,Free Trial,Content_22,Documentary,Series,,,,,,,63
+18,26,9,3,2024-01-27,27,Philippines,25-34,Basic,Content_26,Drama,Series,,,,,,,27
+250,28,58,6,2024-01-28,348,Vietnam,35-44,Basic,Content_28,Documentary,Movie,49.0,0.0,0.0,Facebook,Awareness,720.0,348
+250,28,58,6,2024-01-28,348,Vietnam,35-44,Basic,Content_28,Documentary,Movie,45.0,0.0,0.0,Google Ads,Conversion,604.0,348
+38,85,51,9,2024-01-29,459,Philippines,18-24,Basic,Content_85,Documentary,Movie,47.0,0.0,0.0,Instagram,Conversion,142.0,459
+227,49,13,1,2024-01-30,13,Thailand,35-44,Premium,Content_49,Action,Movie,4.0,0.0,0.0,Instagram,Conversion,120.0,13
+227,49,13,1,2024-01-30,13,Thailand,35-44,Premium,Content_49,Action,Movie,36.0,1.0,0.0,Facebook,Awareness,566.0,13
+115,71,103,5,2024-01-31,515,Indonesia,25-34,Free Trial,Content_71,Horror,Series,49.0,0.0,1.0,Facebook,Awareness,720.0,515
+15,81,24,4,2024-02-01,96,Malaysia,25-34,Free Trial,Content_81,Documentary,Movie,,,,,,,96
+192,84,126,8,2024-02-02,1008,Philippines,45+,Premium,Content_84,Action,Series,1.0,0.0,0.0,Instagram,Retention,535.0,1008
+192,84,126,8,2024-02-02,1008,Philippines,45+,Premium,Content_84,Action,Series,1.0,0.0,1.0,Instagram,Retention,535.0,1008
+217,49,65,1,2024-02-03,65,Malaysia,35-44,Basic,Content_49,Action,Movie,20.0,0.0,0.0,Instagram,Conversion,109.0,65
+217,49,65,1,2024-02-03,65,Malaysia,35-44,Basic,Content_49,Action,Movie,28.0,0.0,1.0,Google Ads,Conversion,901.0,65
+119,20,127,9,2024-02-04,1143,Indonesia,35-44,Free Trial,Content_20,Drama,Movie,14.0,1.0,0.0,Facebook,Retention,228.0,1143
+119,20,127,9,2024-02-04,1143,Indonesia,35-44,Free Trial,Content_20,Drama,Movie,16.0,1.0,0.0,Facebook,Conversion,671.0,1143
+229,86,167,6,2024-02-05,1002,Vietnam,45+,Free Trial,Content_86,Documentary,Series,29.0,1.0,0.0,YouTube,Conversion,875.0,1002
+28,92,86,4,2024-02-06,344,Thailand,18-24,Premium,Content_92,Drama,Movie,22.0,0.0,0.0,YouTube,Conversion,925.0,344
+28,92,86,4,2024-02-06,344,Thailand,18-24,Premium,Content_92,Drama,Movie,17.0,0.0,0.0,Facebook,Conversion,659.0,344
+202,63,66,9,2024-02-07,594,Vietnam,35-44,Premium,Content_63,Action,Movie,,,,,,,594
+39,61,149,5,2024-02-08,745,Indonesia,45+,Free Trial,Content_61,Documentary,Series,,,,,,,745
+185,49,7,5,2024-02-09,35,Thailand,35-44,Premium,Content_49,Action,Movie,4.0,1.0,1.0,Instagram,Conversion,120.0,35
+17,71,164,5,2024-02-10,820,Malaysia,25-34,Basic,Content_71,Horror,Series,18.0,0.0,1.0,Google Ads,Retention,128.0,820
+231,1,17,1,2024-02-11,17,Thailand,18-24,Premium,Content_1,Horror,Series,,,,,,,17
+86,96,124,1,2024-02-12,124,Indonesia,18-24,Free Trial,Content_96,Comedy,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,124
+86,96,124,1,2024-02-12,124,Indonesia,18-24,Free Trial,Content_96,Comedy,Series,40.0,1.0,0.0,Instagram,Retention,186.0,124
+86,96,124,1,2024-02-12,124,Indonesia,18-24,Free Trial,Content_96,Comedy,Series,29.0,1.0,1.0,YouTube,Conversion,875.0,124
+86,96,124,1,2024-02-12,124,Indonesia,18-24,Free Trial,Content_96,Comedy,Series,39.0,0.0,0.0,Google Ads,Retention,548.0,124
+218,13,129,8,2024-02-13,1032,Malaysia,45+,Free Trial,Content_13,Horror,Series,20.0,0.0,0.0,Instagram,Conversion,109.0,1032
+126,94,93,8,2024-02-14,744,Malaysia,25-34,Premium,Content_94,Drama,Series,10.0,0.0,0.0,YouTube,Conversion,116.0,744
+44,87,77,6,2024-02-15,462,Thailand,35-44,Free Trial,Content_87,Drama,Series,8.0,1.0,1.0,YouTube,Conversion,204.0,462
+44,87,77,6,2024-02-15,462,Thailand,35-44,Free Trial,Content_87,Drama,Series,19.0,1.0,1.0,Instagram,Awareness,196.0,462
+25,51,72,4,2024-02-16,288,Indonesia,45+,Basic,Content_51,Documentary,Movie,46.0,0.0,1.0,YouTube,Conversion,186.0,288
+25,51,72,4,2024-02-16,288,Indonesia,45+,Basic,Content_51,Documentary,Movie,37.0,0.0,0.0,Google Ads,Retention,680.0,288
+145,56,146,2,2024-02-17,292,Malaysia,45+,Premium,Content_56,Documentary,Movie,,,,,,,292
+13,83,105,2,2024-02-18,210,Philippines,18-24,Free Trial,Content_83,Action,Movie,3.0,1.0,0.0,Instagram,Conversion,653.0,210
+212,62,102,9,2024-02-19,918,Malaysia,25-34,Free Trial,Content_62,Action,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,918
+25,32,15,5,2024-02-20,75,Indonesia,45+,Basic,Content_32,Drama,Movie,46.0,0.0,1.0,YouTube,Conversion,186.0,75
+25,32,15,5,2024-02-20,75,Indonesia,45+,Basic,Content_32,Drama,Movie,37.0,0.0,0.0,Google Ads,Retention,680.0,75
+68,30,109,4,2024-02-21,436,Thailand,18-24,Premium,Content_30,Action,Movie,43.0,0.0,0.0,YouTube,Awareness,944.0,436
+138,29,71,1,2024-02-22,71,Thailand,35-44,Premium,Content_29,Documentary,Series,8.0,1.0,0.0,YouTube,Conversion,204.0,71
+138,29,71,1,2024-02-22,71,Thailand,35-44,Premium,Content_29,Documentary,Series,16.0,0.0,0.0,Facebook,Conversion,671.0,71
+67,49,127,7,2024-02-23,889,Thailand,45+,Premium,Content_49,Action,Movie,,,,,,,889
+233,45,33,3,2024-02-24,99,Malaysia,25-34,Free Trial,Content_45,Comedy,Series,42.0,1.0,0.0,Instagram,Retention,107.0,99
+109,93,141,6,2024-02-25,846,Vietnam,25-34,Basic,Content_93,Drama,Series,12.0,1.0,0.0,YouTube,Conversion,492.0,846
+109,93,141,6,2024-02-25,846,Vietnam,25-34,Basic,Content_93,Drama,Series,26.0,0.0,0.0,Facebook,Awareness,814.0,846
+146,30,157,5,2024-02-26,785,Malaysia,25-34,Basic,Content_30,Action,Movie,,,,,,,785
+111,16,80,5,2024-02-27,400,Indonesia,25-34,Free Trial,Content_16,Documentary,Movie,,,,,,,400
+228,40,174,5,2024-02-28,870,Thailand,18-24,Premium,Content_40,Action,Series,9.0,1.0,0.0,Google Ads,Awareness,291.0,870
+111,19,13,1,2024-02-29,13,Indonesia,25-34,Free Trial,Content_19,Documentary,Series,,,,,,,13
+214,18,44,1,2024-03-01,44,Thailand,18-24,Basic,Content_18,Comedy,Series,21.0,0.0,0.0,YouTube,Retention,341.0,44
+214,18,44,1,2024-03-01,44,Thailand,18-24,Basic,Content_18,Comedy,Series,41.0,1.0,0.0,YouTube,Awareness,200.0,44
+34,1,29,3,2024-03-02,87,Indonesia,45+,Premium,Content_1,Horror,Series,,,,,,,87
+111,78,9,4,2024-03-03,36,Indonesia,25-34,Free Trial,Content_78,Horror,Movie,,,,,,,36
+8,47,143,5,2024-03-04,715,Vietnam,35-44,Free Trial,Content_47,Documentary,Movie,45.0,1.0,0.0,Google Ads,Conversion,604.0,715
+8,47,143,5,2024-03-04,715,Vietnam,35-44,Free Trial,Content_47,Documentary,Movie,33.0,1.0,1.0,YouTube,Conversion,954.0,715
+168,66,128,2,2024-03-05,256,Vietnam,25-34,Basic,Content_66,Documentary,Series,37.0,0.0,1.0,Google Ads,Retention,680.0,256
+168,66,128,2,2024-03-05,256,Vietnam,25-34,Basic,Content_66,Documentary,Series,26.0,1.0,0.0,Facebook,Awareness,814.0,256
+113,92,42,8,2024-03-06,336,Philippines,35-44,Free Trial,Content_92,Drama,Movie,14.0,0.0,1.0,Facebook,Retention,228.0,336
+236,94,76,2,2024-03-07,152,Thailand,25-34,Premium,Content_94,Drama,Series,15.0,1.0,0.0,YouTube,Awareness,229.0,152
+83,38,137,9,2024-03-08,1233,Philippines,25-34,Free Trial,Content_38,Comedy,Movie,,,,,,,1233
+42,51,94,2,2024-03-09,188,Indonesia,45+,Premium,Content_51,Documentary,Movie,4.0,0.0,0.0,Instagram,Conversion,120.0,188
+42,51,94,2,2024-03-09,188,Indonesia,45+,Premium,Content_51,Documentary,Movie,19.0,0.0,1.0,Instagram,Awareness,196.0,188
+169,63,150,9,2024-03-10,1350,Indonesia,35-44,Basic,Content_63,Action,Movie,12.0,0.0,1.0,YouTube,Conversion,492.0,1350
+169,63,150,9,2024-03-10,1350,Indonesia,35-44,Basic,Content_63,Action,Movie,22.0,1.0,0.0,YouTube,Conversion,925.0,1350
+101,4,41,7,2024-03-11,287,Malaysia,45+,Free Trial,Content_4,Horror,Series,18.0,1.0,0.0,Google Ads,Retention,128.0,287
+101,4,41,7,2024-03-11,287,Malaysia,45+,Free Trial,Content_4,Horror,Series,45.0,1.0,0.0,Google Ads,Conversion,604.0,287
+6,1,64,8,2024-03-12,512,Thailand,45+,Basic,Content_1,Horror,Series,20.0,0.0,0.0,Instagram,Conversion,109.0,512
+180,8,32,2,2024-03-13,64,Indonesia,45+,Premium,Content_8,Comedy,Movie,24.0,1.0,0.0,Google Ads,Awareness,888.0,64
+26,29,85,7,2024-03-14,595,Vietnam,18-24,Basic,Content_29,Documentary,Series,14.0,0.0,0.0,Facebook,Retention,228.0,595
+64,55,118,6,2024-03-15,708,Thailand,45+,Free Trial,Content_55,Documentary,Series,,,,,,,708
+226,3,44,4,2024-03-16,176,Indonesia,35-44,Free Trial,Content_3,Horror,Series,,,,,,,176
+187,32,49,7,2024-03-17,343,Philippines,18-24,Basic,Content_32,Drama,Movie,,,,,,,343
+184,10,66,4,2024-03-18,264,Thailand,25-34,Premium,Content_10,Action,Movie,2.0,0.0,0.0,Facebook,Retention,521.0,264
+59,74,97,2,2024-03-19,194,Malaysia,18-24,Free Trial,Content_74,Drama,Movie,42.0,0.0,0.0,Instagram,Retention,107.0,194
+59,74,97,2,2024-03-19,194,Malaysia,18-24,Free Trial,Content_74,Drama,Movie,17.0,1.0,0.0,Facebook,Conversion,659.0,194
+109,83,119,7,2024-03-20,833,Vietnam,25-34,Basic,Content_83,Action,Movie,12.0,1.0,0.0,YouTube,Conversion,492.0,833
+109,83,119,7,2024-03-20,833,Vietnam,25-34,Basic,Content_83,Action,Movie,26.0,0.0,0.0,Facebook,Awareness,814.0,833
+198,34,71,8,2024-03-21,568,Indonesia,18-24,Basic,Content_34,Comedy,Movie,29.0,0.0,0.0,YouTube,Conversion,875.0,568
+198,34,71,8,2024-03-21,568,Indonesia,18-24,Basic,Content_34,Comedy,Movie,15.0,0.0,0.0,YouTube,Awareness,229.0,568
+198,34,71,8,2024-03-21,568,Indonesia,18-24,Basic,Content_34,Comedy,Movie,49.0,0.0,0.0,Facebook,Awareness,720.0,568
+198,34,71,8,2024-03-21,568,Indonesia,18-24,Basic,Content_34,Comedy,Movie,6.0,0.0,0.0,Instagram,Awareness,496.0,568
+229,97,60,2,2024-03-22,120,Vietnam,45+,Free Trial,Content_97,Drama,Movie,29.0,1.0,0.0,YouTube,Conversion,875.0,120
+121,87,44,5,2024-03-23,220,Thailand,35-44,Premium,Content_87,Drama,Series,41.0,1.0,0.0,YouTube,Awareness,200.0,220
+33,55,102,1,2024-03-24,102,Malaysia,45+,Basic,Content_55,Documentary,Series,7.0,0.0,1.0,Facebook,Awareness,724.0,102
+181,92,44,7,2024-03-25,308,Indonesia,25-34,Free Trial,Content_92,Drama,Movie,,,,,,,308
+150,32,95,8,2024-03-26,760,Malaysia,18-24,Free Trial,Content_32,Drama,Movie,,,,,,,760
+21,50,37,6,2024-03-27,222,Thailand,35-44,Basic,Content_50,Documentary,Movie,14.0,1.0,0.0,Facebook,Retention,228.0,222
+21,50,37,6,2024-03-27,222,Thailand,35-44,Basic,Content_50,Documentary,Movie,14.0,1.0,0.0,Facebook,Retention,228.0,222
+21,50,37,6,2024-03-27,222,Thailand,35-44,Basic,Content_50,Documentary,Movie,35.0,0.0,0.0,Google Ads,Awareness,272.0,222
+21,50,37,6,2024-03-27,222,Thailand,35-44,Basic,Content_50,Documentary,Movie,10.0,0.0,0.0,YouTube,Conversion,116.0,222
+198,7,10,5,2024-03-28,50,Indonesia,18-24,Basic,Content_7,Horror,Movie,29.0,0.0,0.0,YouTube,Conversion,875.0,50
+198,7,10,5,2024-03-28,50,Indonesia,18-24,Basic,Content_7,Horror,Movie,15.0,0.0,0.0,YouTube,Awareness,229.0,50
+198,7,10,5,2024-03-28,50,Indonesia,18-24,Basic,Content_7,Horror,Movie,49.0,0.0,0.0,Facebook,Awareness,720.0,50
+198,7,10,5,2024-03-28,50,Indonesia,18-24,Basic,Content_7,Horror,Movie,6.0,0.0,0.0,Instagram,Awareness,496.0,50
+70,93,151,6,2024-03-29,906,Malaysia,35-44,Basic,Content_93,Drama,Series,31.0,0.0,0.0,Facebook,Awareness,299.0,906
+70,93,151,6,2024-03-29,906,Malaysia,35-44,Basic,Content_93,Drama,Series,21.0,1.0,0.0,YouTube,Retention,341.0,906
+247,8,84,2,2024-03-30,168,Malaysia,18-24,Free Trial,Content_8,Comedy,Movie,46.0,0.0,0.0,YouTube,Conversion,186.0,168
+247,8,84,2,2024-03-30,168,Malaysia,18-24,Free Trial,Content_8,Comedy,Movie,49.0,1.0,0.0,Facebook,Awareness,720.0,168
+247,8,84,2,2024-03-30,168,Malaysia,18-24,Free Trial,Content_8,Comedy,Movie,45.0,0.0,0.0,Google Ads,Conversion,604.0,168
+112,65,172,1,2024-03-31,172,Vietnam,25-34,Basic,Content_65,Documentary,Movie,13.0,1.0,0.0,YouTube,Conversion,524.0,172
+112,65,172,1,2024-03-31,172,Vietnam,25-34,Basic,Content_65,Documentary,Movie,19.0,1.0,0.0,Instagram,Awareness,196.0,172
+4,57,96,7,2024-04-01,672,Philippines,25-34,Premium,Content_57,Drama,Movie,33.0,1.0,0.0,YouTube,Conversion,954.0,672
+4,57,96,7,2024-04-01,672,Philippines,25-34,Premium,Content_57,Drama,Movie,43.0,1.0,0.0,YouTube,Awareness,944.0,672
+94,67,101,7,2024-04-02,707,Vietnam,35-44,Free Trial,Content_67,Horror,Movie,,,,,,,707
+75,88,63,2,2024-04-03,126,Philippines,45+,Basic,Content_88,Comedy,Movie,,,,,,,126
+190,87,63,2,2024-04-04,126,Vietnam,18-24,Basic,Content_87,Drama,Series,,,,,,,126
+62,59,52,1,2024-04-05,52,Malaysia,45+,Basic,Content_59,Comedy,Movie,,,,,,,52
+94,72,173,8,2024-04-06,1384,Vietnam,35-44,Free Trial,Content_72,Drama,Series,,,,,,,1384
+95,54,17,8,2024-04-07,136,Indonesia,45+,Premium,Content_54,Documentary,Movie,,,,,,,136
+152,67,111,1,2024-04-08,111,Indonesia,18-24,Premium,Content_67,Horror,Movie,5.0,1.0,0.0,YouTube,Retention,653.0,111
+152,67,111,1,2024-04-08,111,Indonesia,18-24,Premium,Content_67,Horror,Movie,46.0,0.0,0.0,YouTube,Conversion,186.0,111
+152,67,111,1,2024-04-08,111,Indonesia,18-24,Premium,Content_67,Horror,Movie,44.0,1.0,0.0,Facebook,Conversion,299.0,111
+152,67,111,1,2024-04-08,111,Indonesia,18-24,Premium,Content_67,Horror,Movie,20.0,1.0,1.0,Instagram,Conversion,109.0,111
+55,51,49,8,2024-04-09,392,Vietnam,45+,Free Trial,Content_51,Documentary,Movie,24.0,1.0,0.0,Google Ads,Awareness,888.0,392
+137,97,93,9,2024-04-10,837,Malaysia,25-34,Free Trial,Content_97,Drama,Movie,37.0,1.0,0.0,Google Ads,Retention,680.0,837
+137,97,93,9,2024-04-10,837,Malaysia,25-34,Free Trial,Content_97,Drama,Movie,27.0,0.0,0.0,Google Ads,Awareness,858.0,837
+247,92,174,4,2024-04-11,696,Malaysia,18-24,Free Trial,Content_92,Drama,Movie,46.0,0.0,0.0,YouTube,Conversion,186.0,696
+247,92,174,4,2024-04-11,696,Malaysia,18-24,Free Trial,Content_92,Drama,Movie,49.0,1.0,0.0,Facebook,Awareness,720.0,696
+247,92,174,4,2024-04-11,696,Malaysia,18-24,Free Trial,Content_92,Drama,Movie,45.0,0.0,0.0,Google Ads,Conversion,604.0,696
+131,8,104,1,2024-04-12,104,Vietnam,18-24,Premium,Content_8,Comedy,Movie,22.0,0.0,0.0,YouTube,Conversion,925.0,104
+131,8,104,1,2024-04-12,104,Vietnam,18-24,Premium,Content_8,Comedy,Movie,31.0,0.0,1.0,Facebook,Awareness,299.0,104
+131,8,104,1,2024-04-12,104,Vietnam,18-24,Premium,Content_8,Comedy,Movie,45.0,1.0,0.0,Google Ads,Conversion,604.0,104
+131,8,104,1,2024-04-12,104,Vietnam,18-24,Premium,Content_8,Comedy,Movie,26.0,0.0,0.0,Facebook,Awareness,814.0,104
+243,34,159,1,2024-04-13,159,Indonesia,18-24,Free Trial,Content_34,Comedy,Movie,44.0,0.0,0.0,Facebook,Conversion,299.0,159
+31,35,170,3,2024-04-14,510,Vietnam,45+,Basic,Content_35,Documentary,Movie,24.0,0.0,0.0,Google Ads,Awareness,888.0,510
+40,96,11,5,2024-04-15,55,Thailand,18-24,Free Trial,Content_96,Comedy,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,55
+229,88,137,5,2024-04-16,685,Vietnam,45+,Free Trial,Content_88,Comedy,Movie,29.0,1.0,0.0,YouTube,Conversion,875.0,685
+36,78,49,9,2024-04-17,441,Philippines,35-44,Basic,Content_78,Horror,Movie,21.0,0.0,1.0,YouTube,Retention,341.0,441
+152,32,62,2,2024-04-18,124,Indonesia,18-24,Premium,Content_32,Drama,Movie,5.0,1.0,0.0,YouTube,Retention,653.0,124
+152,32,62,2,2024-04-18,124,Indonesia,18-24,Premium,Content_32,Drama,Movie,46.0,0.0,0.0,YouTube,Conversion,186.0,124
+152,32,62,2,2024-04-18,124,Indonesia,18-24,Premium,Content_32,Drama,Movie,44.0,1.0,0.0,Facebook,Conversion,299.0,124
+152,32,62,2,2024-04-18,124,Indonesia,18-24,Premium,Content_32,Drama,Movie,20.0,1.0,1.0,Instagram,Conversion,109.0,124
+223,46,35,2,2024-04-19,70,Vietnam,25-34,Basic,Content_46,Action,Movie,32.0,1.0,0.0,Facebook,Awareness,178.0,70
+223,46,35,2,2024-04-19,70,Vietnam,25-34,Basic,Content_46,Action,Movie,6.0,0.0,0.0,Instagram,Awareness,496.0,70
+6,16,27,6,2024-04-20,162,Thailand,45+,Basic,Content_16,Documentary,Movie,20.0,0.0,0.0,Instagram,Conversion,109.0,162
+66,68,174,9,2024-04-21,1566,Malaysia,18-24,Basic,Content_68,Action,Movie,43.0,0.0,1.0,YouTube,Awareness,944.0,1566
+66,68,174,9,2024-04-21,1566,Malaysia,18-24,Basic,Content_68,Action,Movie,20.0,1.0,0.0,Instagram,Conversion,109.0,1566
+212,37,142,1,2024-04-22,142,Malaysia,25-34,Free Trial,Content_37,Action,Movie,19.0,0.0,0.0,Instagram,Awareness,196.0,142
+220,54,164,9,2024-04-23,1476,Indonesia,35-44,Free Trial,Content_54,Documentary,Movie,7.0,1.0,0.0,Facebook,Awareness,724.0,1476
+220,54,164,9,2024-04-23,1476,Indonesia,35-44,Free Trial,Content_54,Documentary,Movie,5.0,1.0,0.0,YouTube,Retention,653.0,1476
+220,54,164,9,2024-04-23,1476,Indonesia,35-44,Free Trial,Content_54,Documentary,Movie,17.0,0.0,0.0,Facebook,Conversion,659.0,1476
+220,54,164,9,2024-04-23,1476,Indonesia,35-44,Free Trial,Content_54,Documentary,Movie,36.0,0.0,0.0,Facebook,Awareness,566.0,1476
+220,54,164,9,2024-04-23,1476,Indonesia,35-44,Free Trial,Content_54,Documentary,Movie,26.0,1.0,0.0,Facebook,Awareness,814.0,1476
+75,85,111,9,2024-04-24,999,Philippines,45+,Basic,Content_85,Documentary,Movie,,,,,,,999
+4,14,162,9,2024-04-25,1458,Philippines,25-34,Premium,Content_14,Documentary,Movie,33.0,1.0,0.0,YouTube,Conversion,954.0,1458
+4,14,162,9,2024-04-25,1458,Philippines,25-34,Premium,Content_14,Documentary,Movie,43.0,1.0,0.0,YouTube,Awareness,944.0,1458
+79,95,43,5,2024-04-26,215,Malaysia,25-34,Premium,Content_95,Comedy,Movie,2.0,0.0,0.0,Facebook,Retention,521.0,215
+134,55,163,9,2024-04-27,1467,Philippines,45+,Free Trial,Content_55,Documentary,Series,1.0,0.0,1.0,Instagram,Retention,535.0,1467
+118,48,86,4,2024-04-28,344,Vietnam,45+,Free Trial,Content_48,Horror,Series,,,,,,,344
+113,82,104,2,2024-04-29,208,Philippines,35-44,Free Trial,Content_82,Comedy,Movie,14.0,0.0,1.0,Facebook,Retention,228.0,208
+94,7,6,6,2024-04-30,36,Vietnam,35-44,Free Trial,Content_7,Horror,Movie,,,,,,,36
+248,74,81,4,2024-05-01,324,Indonesia,35-44,Basic,Content_74,Drama,Movie,2.0,1.0,1.0,Facebook,Retention,521.0,324
+248,74,81,4,2024-05-01,324,Indonesia,35-44,Basic,Content_74,Drama,Movie,16.0,1.0,0.0,Facebook,Conversion,671.0,324
+248,74,81,4,2024-05-01,324,Indonesia,35-44,Basic,Content_74,Drama,Movie,38.0,0.0,0.0,Google Ads,Awareness,515.0,324
+230,7,16,6,2024-05-02,96,Malaysia,18-24,Basic,Content_7,Horror,Movie,48.0,0.0,0.0,Google Ads,Retention,484.0,96
+230,7,16,6,2024-05-02,96,Malaysia,18-24,Basic,Content_7,Horror,Movie,50.0,0.0,1.0,YouTube,Awareness,534.0,96
+179,33,43,3,2024-05-03,129,Philippines,18-24,Premium,Content_33,Action,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,129
+62,23,17,6,2024-05-04,102,Malaysia,45+,Basic,Content_23,Action,Movie,,,,,,,102
+185,85,50,2,2024-05-05,100,Thailand,35-44,Premium,Content_85,Documentary,Movie,4.0,1.0,1.0,Instagram,Conversion,120.0,100
+194,19,159,2,2024-05-06,318,Thailand,18-24,Basic,Content_19,Documentary,Series,44.0,0.0,0.0,Facebook,Conversion,299.0,318
+79,19,117,9,2024-05-07,1053,Malaysia,25-34,Premium,Content_19,Documentary,Series,2.0,0.0,0.0,Facebook,Retention,521.0,1053
+203,36,21,7,2024-05-08,147,Indonesia,35-44,Free Trial,Content_36,Drama,Series,13.0,0.0,1.0,YouTube,Conversion,524.0,147
+136,29,108,3,2024-05-09,324,Vietnam,18-24,Premium,Content_29,Documentary,Series,,,,,,,324
+26,60,102,1,2024-05-10,102,Vietnam,18-24,Basic,Content_60,Action,Series,14.0,0.0,0.0,Facebook,Retention,228.0,102
+179,82,92,8,2024-05-11,736,Philippines,18-24,Premium,Content_82,Comedy,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,736
+173,2,113,6,2024-05-12,678,Thailand,25-34,Basic,Content_2,Drama,Movie,,,,,,,678
+44,1,167,7,2024-05-13,1169,Thailand,35-44,Free Trial,Content_1,Horror,Series,8.0,1.0,1.0,YouTube,Conversion,204.0,1169
+44,1,167,7,2024-05-13,1169,Thailand,35-44,Free Trial,Content_1,Horror,Series,19.0,1.0,1.0,Instagram,Awareness,196.0,1169
+133,47,74,9,2024-05-14,666,Malaysia,25-34,Premium,Content_47,Documentary,Movie,5.0,1.0,0.0,YouTube,Retention,653.0,666
+70,69,162,5,2024-05-15,810,Malaysia,35-44,Basic,Content_69,Action,Movie,31.0,0.0,0.0,Facebook,Awareness,299.0,810
+70,69,162,5,2024-05-15,810,Malaysia,35-44,Basic,Content_69,Action,Movie,21.0,1.0,0.0,YouTube,Retention,341.0,810
+154,20,78,1,2024-05-16,78,Indonesia,45+,Premium,Content_20,Drama,Movie,10.0,0.0,1.0,YouTube,Conversion,116.0,78
+154,20,78,1,2024-05-16,78,Indonesia,45+,Premium,Content_20,Drama,Movie,42.0,0.0,0.0,Instagram,Retention,107.0,78
+154,20,78,1,2024-05-16,78,Indonesia,45+,Premium,Content_20,Drama,Movie,21.0,1.0,0.0,YouTube,Retention,341.0,78
+118,11,67,7,2024-05-17,469,Vietnam,45+,Free Trial,Content_11,Action,Series,,,,,,,469
+68,2,160,5,2024-05-18,800,Thailand,18-24,Premium,Content_2,Drama,Movie,43.0,0.0,0.0,YouTube,Awareness,944.0,800
+19,67,64,3,2024-05-19,192,Indonesia,25-34,Free Trial,Content_67,Horror,Movie,48.0,0.0,0.0,Google Ads,Retention,484.0,192
+212,87,83,9,2024-05-20,747,Malaysia,25-34,Free Trial,Content_87,Drama,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,747
+225,12,41,1,2024-05-21,41,Indonesia,25-34,Premium,Content_12,Documentary,Series,,,,,,,41
+20,20,26,1,2024-05-22,26,Malaysia,25-34,Basic,Content_20,Drama,Movie,32.0,0.0,0.0,Facebook,Awareness,178.0,26
+113,5,152,1,2024-05-23,152,Philippines,35-44,Free Trial,Content_5,Documentary,Movie,14.0,0.0,1.0,Facebook,Retention,228.0,152
+140,37,100,3,2024-05-24,300,Philippines,35-44,Free Trial,Content_37,Action,Movie,30.0,0.0,0.0,Google Ads,Awareness,825.0,300
+47,38,72,6,2024-05-25,432,Thailand,25-34,Premium,Content_38,Comedy,Movie,16.0,0.0,0.0,Facebook,Conversion,671.0,432
+1,94,21,3,2024-05-26,63,Malaysia,18-24,Free Trial,Content_94,Drama,Series,,,,,,,63
+90,9,16,8,2024-05-27,128,Vietnam,18-24,Basic,Content_9,Action,Movie,,,,,,,128
+142,98,154,2,2024-05-28,308,Philippines,18-24,Basic,Content_98,Horror,Movie,18.0,1.0,0.0,Google Ads,Retention,128.0,308
+64,53,149,9,2024-05-29,1341,Thailand,45+,Free Trial,Content_53,Documentary,Series,,,,,,,1341
+38,44,142,3,2024-05-30,426,Philippines,18-24,Basic,Content_44,Action,Series,47.0,0.0,0.0,Instagram,Conversion,142.0,426
+37,99,122,5,2024-05-31,610,Vietnam,35-44,Premium,Content_99,Action,Movie,,,,,,,610
+126,86,26,8,2024-06-01,208,Malaysia,25-34,Premium,Content_86,Documentary,Series,10.0,0.0,0.0,YouTube,Conversion,116.0,208
+139,24,124,2,2024-06-02,248,Thailand,25-34,Free Trial,Content_24,Drama,Series,6.0,0.0,0.0,Instagram,Awareness,496.0,248
+139,24,124,2,2024-06-02,248,Thailand,25-34,Free Trial,Content_24,Drama,Series,46.0,1.0,0.0,YouTube,Conversion,186.0,248
+100,81,54,6,2024-06-03,324,Indonesia,18-24,Basic,Content_81,Documentary,Movie,,,,,,,324
+77,74,18,5,2024-06-04,90,Indonesia,45+,Premium,Content_74,Drama,Movie,,,,,,,90
+235,30,179,9,2024-06-05,1611,Indonesia,35-44,Premium,Content_30,Action,Movie,,,,,,,1611
+3,59,33,5,2024-06-06,165,Vietnam,45+,Free Trial,Content_59,Comedy,Movie,30.0,1.0,0.0,Google Ads,Awareness,825.0,165
+161,87,168,2,2024-06-07,336,Vietnam,35-44,Premium,Content_87,Drama,Series,25.0,1.0,0.0,Google Ads,Awareness,383.0,336
+161,87,168,2,2024-06-07,336,Vietnam,35-44,Premium,Content_87,Drama,Series,41.0,1.0,0.0,YouTube,Awareness,200.0,336
+161,87,168,2,2024-06-07,336,Vietnam,35-44,Premium,Content_87,Drama,Series,45.0,1.0,0.0,Google Ads,Conversion,604.0,336
+134,96,129,5,2024-06-08,645,Philippines,45+,Free Trial,Content_96,Comedy,Series,1.0,0.0,1.0,Instagram,Retention,535.0,645
+178,81,11,4,2024-06-09,44,Indonesia,25-34,Free Trial,Content_81,Documentary,Movie,41.0,1.0,0.0,YouTube,Awareness,200.0,44
+178,81,11,4,2024-06-09,44,Indonesia,25-34,Free Trial,Content_81,Documentary,Movie,47.0,1.0,0.0,Instagram,Conversion,142.0,44
+178,81,11,4,2024-06-09,44,Indonesia,25-34,Free Trial,Content_81,Documentary,Movie,38.0,0.0,1.0,Google Ads,Awareness,515.0,44
+178,81,11,4,2024-06-09,44,Indonesia,25-34,Free Trial,Content_81,Documentary,Movie,35.0,0.0,0.0,Google Ads,Awareness,272.0,44
+248,81,33,7,2024-06-10,231,Indonesia,35-44,Basic,Content_81,Documentary,Movie,2.0,1.0,1.0,Facebook,Retention,521.0,231
+248,81,33,7,2024-06-10,231,Indonesia,35-44,Basic,Content_81,Documentary,Movie,16.0,1.0,0.0,Facebook,Conversion,671.0,231
+248,81,33,7,2024-06-10,231,Indonesia,35-44,Basic,Content_81,Documentary,Movie,38.0,0.0,0.0,Google Ads,Awareness,515.0,231
+10,14,143,6,2024-06-11,858,Philippines,25-34,Free Trial,Content_14,Documentary,Movie,,,,,,,858
+5,9,37,2,2024-06-12,74,Philippines,45+,Premium,Content_9,Action,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,74
+151,40,138,5,2024-06-13,690,Indonesia,45+,Premium,Content_40,Action,Series,,,,,,,690
+138,66,115,7,2024-06-14,805,Thailand,35-44,Premium,Content_66,Documentary,Series,8.0,1.0,0.0,YouTube,Conversion,204.0,805
+138,66,115,7,2024-06-14,805,Thailand,35-44,Premium,Content_66,Documentary,Series,16.0,0.0,0.0,Facebook,Conversion,671.0,805
+172,25,83,7,2024-06-15,581,Indonesia,35-44,Free Trial,Content_25,Drama,Movie,6.0,0.0,0.0,Instagram,Awareness,496.0,581
+130,73,164,5,2024-06-16,820,Philippines,18-24,Free Trial,Content_73,Drama,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,820
+13,22,62,9,2024-06-17,558,Philippines,18-24,Free Trial,Content_22,Documentary,Series,3.0,1.0,0.0,Instagram,Conversion,653.0,558
+168,4,30,4,2024-06-18,120,Vietnam,25-34,Basic,Content_4,Horror,Series,37.0,0.0,1.0,Google Ads,Retention,680.0,120
+168,4,30,4,2024-06-18,120,Vietnam,25-34,Basic,Content_4,Horror,Series,26.0,1.0,0.0,Facebook,Awareness,814.0,120
+130,26,178,3,2024-06-19,534,Philippines,18-24,Free Trial,Content_26,Drama,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,534
+84,58,33,4,2024-06-20,132,Philippines,35-44,Premium,Content_58,Drama,Movie,17.0,0.0,0.0,Facebook,Conversion,659.0,132
+84,58,33,4,2024-06-20,132,Philippines,35-44,Premium,Content_58,Drama,Movie,50.0,0.0,1.0,YouTube,Awareness,534.0,132
+65,29,8,5,2024-06-21,40,Thailand,18-24,Premium,Content_29,Documentary,Series,50.0,1.0,0.0,YouTube,Awareness,534.0,40
+63,98,103,6,2024-06-22,618,Philippines,35-44,Basic,Content_98,Horror,Movie,5.0,0.0,0.0,YouTube,Retention,653.0,618
+63,98,103,6,2024-06-22,618,Philippines,35-44,Basic,Content_98,Horror,Movie,9.0,0.0,0.0,Google Ads,Awareness,291.0,618
+101,87,145,3,2024-06-23,435,Malaysia,45+,Free Trial,Content_87,Drama,Series,18.0,1.0,0.0,Google Ads,Retention,128.0,435
+101,87,145,3,2024-06-23,435,Malaysia,45+,Free Trial,Content_87,Drama,Series,45.0,1.0,0.0,Google Ads,Conversion,604.0,435
+73,37,43,2,2024-06-24,86,Philippines,45+,Basic,Content_37,Action,Movie,40.0,0.0,0.0,Instagram,Retention,186.0,86
+17,75,19,4,2024-06-25,76,Malaysia,25-34,Basic,Content_75,Comedy,Series,18.0,0.0,1.0,Google Ads,Retention,128.0,76
+9,70,123,5,2024-06-26,615,Vietnam,45+,Basic,Content_70,Drama,Series,39.0,1.0,1.0,Google Ads,Retention,548.0,615
+203,18,33,4,2024-06-27,132,Indonesia,35-44,Free Trial,Content_18,Comedy,Series,13.0,0.0,1.0,YouTube,Conversion,524.0,132
+143,85,161,3,2024-06-28,483,Malaysia,45+,Premium,Content_85,Documentary,Movie,12.0,0.0,0.0,YouTube,Conversion,492.0,483
+143,85,161,3,2024-06-28,483,Malaysia,45+,Premium,Content_85,Documentary,Movie,16.0,0.0,0.0,Facebook,Conversion,671.0,483
+143,85,161,3,2024-06-28,483,Malaysia,45+,Premium,Content_85,Documentary,Movie,46.0,0.0,0.0,YouTube,Conversion,186.0,483
+143,85,161,3,2024-06-28,483,Malaysia,45+,Premium,Content_85,Documentary,Movie,4.0,1.0,1.0,Instagram,Conversion,120.0,483
+152,42,79,8,2024-06-29,632,Indonesia,18-24,Premium,Content_42,Action,Series,5.0,1.0,0.0,YouTube,Retention,653.0,632
+152,42,79,8,2024-06-29,632,Indonesia,18-24,Premium,Content_42,Action,Series,46.0,0.0,0.0,YouTube,Conversion,186.0,632
+152,42,79,8,2024-06-29,632,Indonesia,18-24,Premium,Content_42,Action,Series,44.0,1.0,0.0,Facebook,Conversion,299.0,632
+152,42,79,8,2024-06-29,632,Indonesia,18-24,Premium,Content_42,Action,Series,20.0,1.0,1.0,Instagram,Conversion,109.0,632
+38,100,120,4,2024-06-30,480,Philippines,18-24,Basic,Content_100,Action,Series,47.0,0.0,0.0,Instagram,Conversion,142.0,480
+247,41,36,2,2024-07-01,72,Malaysia,18-24,Free Trial,Content_41,Documentary,Series,46.0,0.0,0.0,YouTube,Conversion,186.0,72
+247,41,36,2,2024-07-01,72,Malaysia,18-24,Free Trial,Content_41,Documentary,Series,49.0,1.0,0.0,Facebook,Awareness,720.0,72
+247,41,36,2,2024-07-01,72,Malaysia,18-24,Free Trial,Content_41,Documentary,Series,45.0,0.0,0.0,Google Ads,Conversion,604.0,72
+163,38,134,2,2024-07-02,268,Philippines,25-34,Free Trial,Content_38,Comedy,Movie,43.0,1.0,1.0,YouTube,Awareness,944.0,268
+94,34,179,1,2024-07-03,179,Vietnam,35-44,Free Trial,Content_34,Comedy,Movie,,,,,,,179
+95,17,88,4,2024-07-04,352,Indonesia,45+,Premium,Content_17,Documentary,Series,,,,,,,352
+49,37,26,9,2024-07-05,234,Thailand,25-34,Free Trial,Content_37,Action,Movie,32.0,0.0,0.0,Facebook,Awareness,178.0,234
+49,37,26,9,2024-07-05,234,Thailand,25-34,Free Trial,Content_37,Action,Movie,3.0,1.0,1.0,Instagram,Conversion,653.0,234
+69,25,31,7,2024-07-06,217,Malaysia,45+,Free Trial,Content_25,Drama,Movie,50.0,1.0,0.0,YouTube,Awareness,534.0,217
+69,25,31,7,2024-07-06,217,Malaysia,45+,Free Trial,Content_25,Drama,Movie,35.0,0.0,0.0,Google Ads,Awareness,272.0,217
+62,76,85,7,2024-07-07,595,Malaysia,45+,Basic,Content_76,Comedy,Series,,,,,,,595
+188,87,130,7,2024-07-08,910,Indonesia,18-24,Premium,Content_87,Drama,Series,24.0,1.0,0.0,Google Ads,Awareness,888.0,910
+188,87,130,7,2024-07-08,910,Indonesia,18-24,Premium,Content_87,Drama,Series,8.0,0.0,0.0,YouTube,Conversion,204.0,910
+236,86,96,8,2024-07-09,768,Thailand,25-34,Premium,Content_86,Documentary,Series,15.0,1.0,0.0,YouTube,Awareness,229.0,768
+178,85,25,1,2024-07-10,25,Indonesia,25-34,Free Trial,Content_85,Documentary,Movie,41.0,1.0,0.0,YouTube,Awareness,200.0,25
+178,85,25,1,2024-07-10,25,Indonesia,25-34,Free Trial,Content_85,Documentary,Movie,47.0,1.0,0.0,Instagram,Conversion,142.0,25
+178,85,25,1,2024-07-10,25,Indonesia,25-34,Free Trial,Content_85,Documentary,Movie,38.0,0.0,1.0,Google Ads,Awareness,515.0,25
+178,85,25,1,2024-07-10,25,Indonesia,25-34,Free Trial,Content_85,Documentary,Movie,35.0,0.0,0.0,Google Ads,Awareness,272.0,25
+78,27,51,8,2024-07-11,408,Malaysia,45+,Free Trial,Content_27,Comedy,Movie,,,,,,,408
+117,57,105,4,2024-07-12,420,Thailand,25-34,Premium,Content_57,Drama,Movie,18.0,1.0,0.0,Google Ads,Retention,128.0,420
+120,31,88,4,2024-07-13,352,Thailand,25-34,Free Trial,Content_31,Action,Movie,32.0,1.0,0.0,Facebook,Awareness,178.0,352
+120,31,88,4,2024-07-13,352,Thailand,25-34,Free Trial,Content_31,Action,Movie,17.0,0.0,1.0,Facebook,Conversion,659.0,352
+120,31,88,4,2024-07-13,352,Thailand,25-34,Free Trial,Content_31,Action,Movie,39.0,0.0,0.0,Google Ads,Retention,548.0,352
+203,6,10,4,2024-07-14,40,Indonesia,35-44,Free Trial,Content_6,Action,Series,13.0,0.0,1.0,YouTube,Conversion,524.0,40
+137,91,151,6,2024-07-15,906,Malaysia,25-34,Free Trial,Content_91,Drama,Movie,37.0,1.0,0.0,Google Ads,Retention,680.0,906
+137,91,151,6,2024-07-15,906,Malaysia,25-34,Free Trial,Content_91,Drama,Movie,27.0,0.0,0.0,Google Ads,Awareness,858.0,906
+162,40,135,7,2024-07-16,945,Indonesia,45+,Basic,Content_40,Action,Series,13.0,0.0,0.0,YouTube,Conversion,524.0,945
+162,40,135,7,2024-07-16,945,Indonesia,45+,Basic,Content_40,Action,Series,49.0,0.0,0.0,Facebook,Awareness,720.0,945
+76,98,5,6,2024-07-17,30,Thailand,18-24,Basic,Content_98,Horror,Movie,44.0,1.0,0.0,Facebook,Conversion,299.0,30
+227,12,62,1,2024-07-18,62,Thailand,35-44,Premium,Content_12,Documentary,Series,4.0,0.0,0.0,Instagram,Conversion,120.0,62
+227,12,62,1,2024-07-18,62,Thailand,35-44,Premium,Content_12,Documentary,Series,36.0,1.0,0.0,Facebook,Awareness,566.0,62
+35,53,128,8,2024-07-19,1024,Vietnam,45+,Basic,Content_53,Documentary,Series,,,,,,,1024
+1,71,170,7,2024-07-20,1190,Malaysia,18-24,Free Trial,Content_71,Horror,Series,,,,,,,1190
+40,10,19,6,2024-07-21,114,Thailand,18-24,Free Trial,Content_10,Action,Movie,19.0,0.0,0.0,Instagram,Awareness,196.0,114
+64,45,166,6,2024-07-22,996,Thailand,45+,Free Trial,Content_45,Comedy,Series,,,,,,,996
+150,17,167,5,2024-07-23,835,Malaysia,18-24,Free Trial,Content_17,Documentary,Series,,,,,,,835
+60,26,68,6,2024-07-24,408,Thailand,25-34,Free Trial,Content_26,Drama,Series,31.0,0.0,0.0,Facebook,Awareness,299.0,408
+60,26,68,6,2024-07-24,408,Thailand,25-34,Free Trial,Content_26,Drama,Series,36.0,0.0,0.0,Facebook,Awareness,566.0,408
+64,85,29,9,2024-07-25,261,Thailand,45+,Free Trial,Content_85,Documentary,Movie,,,,,,,261
+93,92,28,9,2024-07-26,252,Vietnam,35-44,Premium,Content_92,Drama,Movie,,,,,,,252
+72,62,16,8,2024-07-27,128,Philippines,35-44,Basic,Content_62,Action,Series,3.0,1.0,0.0,Instagram,Conversion,653.0,128
+11,46,22,9,2024-07-28,198,Malaysia,18-24,Free Trial,Content_46,Action,Movie,10.0,0.0,0.0,YouTube,Conversion,116.0,198
+105,64,19,8,2024-07-29,152,Indonesia,35-44,Premium,Content_64,Comedy,Series,,,,,,,152
+229,2,31,8,2024-07-30,248,Vietnam,45+,Free Trial,Content_2,Drama,Movie,29.0,1.0,0.0,YouTube,Conversion,875.0,248
+14,54,76,1,2024-07-31,76,Thailand,18-24,Premium,Content_54,Documentary,Movie,30.0,0.0,0.0,Google Ads,Awareness,825.0,76
+14,54,76,1,2024-07-31,76,Thailand,18-24,Premium,Content_54,Documentary,Movie,9.0,0.0,1.0,Google Ads,Awareness,291.0,76
+60,65,64,5,2024-08-01,320,Thailand,25-34,Free Trial,Content_65,Documentary,Movie,31.0,0.0,0.0,Facebook,Awareness,299.0,320
+60,65,64,5,2024-08-01,320,Thailand,25-34,Free Trial,Content_65,Documentary,Movie,36.0,0.0,0.0,Facebook,Awareness,566.0,320
+30,51,178,4,2024-08-02,712,Malaysia,18-24,Basic,Content_51,Documentary,Movie,,,,,,,712
+35,53,149,2,2024-08-03,298,Vietnam,45+,Basic,Content_53,Documentary,Series,,,,,,,298
+213,36,97,8,2024-08-04,776,Vietnam,35-44,Free Trial,Content_36,Drama,Series,40.0,1.0,0.0,Instagram,Retention,186.0,776
+213,36,97,8,2024-08-04,776,Vietnam,35-44,Free Trial,Content_36,Drama,Series,27.0,0.0,0.0,Google Ads,Awareness,858.0,776
+165,26,57,3,2024-08-05,171,Vietnam,45+,Free Trial,Content_26,Drama,Series,25.0,0.0,0.0,Google Ads,Awareness,383.0,171
+165,26,57,3,2024-08-05,171,Vietnam,45+,Free Trial,Content_26,Drama,Series,21.0,1.0,0.0,YouTube,Retention,341.0,171
+5,29,12,4,2024-08-06,48,Philippines,45+,Premium,Content_29,Documentary,Series,23.0,1.0,0.0,Google Ads,Retention,331.0,48
+83,21,83,7,2024-08-07,581,Philippines,25-34,Free Trial,Content_21,Comedy,Series,,,,,,,581
+123,11,31,9,2024-08-08,279,Philippines,35-44,Premium,Content_11,Action,Series,37.0,0.0,0.0,Google Ads,Retention,680.0,279
+78,40,178,2,2024-08-09,356,Malaysia,45+,Free Trial,Content_40,Action,Series,,,,,,,356
+154,11,54,3,2024-08-10,162,Indonesia,45+,Premium,Content_11,Action,Series,10.0,0.0,1.0,YouTube,Conversion,116.0,162
+154,11,54,3,2024-08-10,162,Indonesia,45+,Premium,Content_11,Action,Series,42.0,0.0,0.0,Instagram,Retention,107.0,162
+154,11,54,3,2024-08-10,162,Indonesia,45+,Premium,Content_11,Action,Series,21.0,1.0,0.0,YouTube,Retention,341.0,162
+62,36,135,4,2024-08-11,540,Malaysia,45+,Basic,Content_36,Drama,Series,,,,,,,540
+132,59,97,1,2024-08-12,97,Philippines,35-44,Free Trial,Content_59,Comedy,Movie,,,,,,,97
+89,39,176,7,2024-08-13,1232,Malaysia,18-24,Free Trial,Content_39,Comedy,Series,21.0,0.0,0.0,YouTube,Retention,341.0,1232
+89,39,176,7,2024-08-13,1232,Malaysia,18-24,Free Trial,Content_39,Comedy,Series,26.0,0.0,0.0,Facebook,Awareness,814.0,1232
+237,99,28,2,2024-08-14,56,Indonesia,45+,Free Trial,Content_99,Action,Movie,,,,,,,56
+42,54,64,5,2024-08-15,320,Indonesia,45+,Premium,Content_54,Documentary,Movie,4.0,0.0,0.0,Instagram,Conversion,120.0,320
+42,54,64,5,2024-08-15,320,Indonesia,45+,Premium,Content_54,Documentary,Movie,19.0,0.0,1.0,Instagram,Awareness,196.0,320
+89,98,126,1,2024-08-16,126,Malaysia,18-24,Free Trial,Content_98,Horror,Movie,21.0,0.0,0.0,YouTube,Retention,341.0,126
+89,98,126,1,2024-08-16,126,Malaysia,18-24,Free Trial,Content_98,Horror,Movie,26.0,0.0,0.0,Facebook,Awareness,814.0,126
+146,55,135,3,2024-08-17,405,Malaysia,25-34,Basic,Content_55,Documentary,Series,,,,,,,405
+40,24,152,2,2024-08-18,304,Thailand,18-24,Free Trial,Content_24,Drama,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,304
+72,22,50,1,2024-08-19,50,Philippines,35-44,Basic,Content_22,Documentary,Series,3.0,1.0,0.0,Instagram,Conversion,653.0,50
+39,69,19,7,2024-08-20,133,Indonesia,45+,Free Trial,Content_69,Action,Movie,,,,,,,133
+104,56,157,5,2024-08-21,785,Thailand,45+,Free Trial,Content_56,Documentary,Movie,30.0,0.0,0.0,Google Ads,Awareness,825.0,785
+14,33,21,1,2024-08-22,21,Thailand,18-24,Premium,Content_33,Action,Movie,30.0,0.0,0.0,Google Ads,Awareness,825.0,21
+14,33,21,1,2024-08-22,21,Thailand,18-24,Premium,Content_33,Action,Movie,9.0,0.0,1.0,Google Ads,Awareness,291.0,21
+32,36,130,6,2024-08-23,780,Malaysia,45+,Free Trial,Content_36,Drama,Series,4.0,0.0,0.0,Instagram,Conversion,120.0,780
+32,36,130,6,2024-08-23,780,Malaysia,45+,Free Trial,Content_36,Drama,Series,47.0,1.0,1.0,Instagram,Conversion,142.0,780
+179,20,88,5,2024-08-24,440,Philippines,18-24,Premium,Content_20,Drama,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,440
+125,83,13,3,2024-08-25,39,Indonesia,25-34,Premium,Content_83,Action,Movie,29.0,1.0,0.0,YouTube,Conversion,875.0,39
+125,83,13,3,2024-08-25,39,Indonesia,25-34,Premium,Content_83,Action,Movie,22.0,0.0,0.0,YouTube,Conversion,925.0,39
+166,99,170,7,2024-08-26,1190,Thailand,35-44,Basic,Content_99,Action,Movie,,,,,,,1190
+97,81,67,9,2024-08-27,603,Philippines,45+,Free Trial,Content_81,Documentary,Movie,37.0,1.0,0.0,Google Ads,Retention,680.0,603
+97,81,67,9,2024-08-27,603,Philippines,45+,Free Trial,Content_81,Documentary,Movie,5.0,1.0,0.0,YouTube,Retention,653.0,603
+23,62,121,9,2024-08-28,1089,Malaysia,18-24,Premium,Content_62,Action,Series,35.0,1.0,0.0,Google Ads,Awareness,272.0,1089
+63,98,134,9,2024-08-29,1206,Philippines,35-44,Basic,Content_98,Horror,Movie,5.0,0.0,0.0,YouTube,Retention,653.0,1206
+63,98,134,9,2024-08-29,1206,Philippines,35-44,Basic,Content_98,Horror,Movie,9.0,0.0,0.0,Google Ads,Awareness,291.0,1206
+143,73,92,2,2024-08-30,184,Malaysia,45+,Premium,Content_73,Drama,Series,12.0,0.0,0.0,YouTube,Conversion,492.0,184
+143,73,92,2,2024-08-30,184,Malaysia,45+,Premium,Content_73,Drama,Series,16.0,0.0,0.0,Facebook,Conversion,671.0,184
+143,73,92,2,2024-08-30,184,Malaysia,45+,Premium,Content_73,Drama,Series,46.0,0.0,0.0,YouTube,Conversion,186.0,184
+143,73,92,2,2024-08-30,184,Malaysia,45+,Premium,Content_73,Drama,Series,4.0,1.0,1.0,Instagram,Conversion,120.0,184
+225,26,76,3,2024-08-31,228,Indonesia,25-34,Premium,Content_26,Drama,Series,,,,,,,228
+153,66,143,7,2024-09-01,1001,Indonesia,45+,Basic,Content_66,Documentary,Series,11.0,1.0,1.0,Facebook,Retention,219.0,1001
+145,73,68,5,2024-09-02,340,Malaysia,45+,Premium,Content_73,Drama,Series,,,,,,,340
+225,73,76,2,2024-09-03,152,Indonesia,25-34,Premium,Content_73,Drama,Series,,,,,,,152
+239,40,25,3,2024-09-04,75,Philippines,25-34,Basic,Content_40,Action,Series,25.0,0.0,0.0,Google Ads,Awareness,383.0,75
+247,17,22,6,2024-09-05,132,Malaysia,18-24,Free Trial,Content_17,Documentary,Series,46.0,0.0,0.0,YouTube,Conversion,186.0,132
+247,17,22,6,2024-09-05,132,Malaysia,18-24,Free Trial,Content_17,Documentary,Series,49.0,1.0,0.0,Facebook,Awareness,720.0,132
+247,17,22,6,2024-09-05,132,Malaysia,18-24,Free Trial,Content_17,Documentary,Series,45.0,0.0,0.0,Google Ads,Conversion,604.0,132
+194,1,68,7,2024-09-06,476,Thailand,18-24,Basic,Content_1,Horror,Series,44.0,0.0,0.0,Facebook,Conversion,299.0,476
+206,89,86,9,2024-09-07,774,Vietnam,45+,Premium,Content_89,Comedy,Movie,,,,,,,774
+53,61,114,1,2024-09-08,114,Malaysia,35-44,Free Trial,Content_61,Documentary,Series,,,,,,,114
+104,43,99,7,2024-09-09,693,Thailand,45+,Free Trial,Content_43,Drama,Series,30.0,0.0,0.0,Google Ads,Awareness,825.0,693
+104,42,170,8,2024-09-10,1360,Thailand,45+,Free Trial,Content_42,Action,Series,30.0,0.0,0.0,Google Ads,Awareness,825.0,1360
+179,25,36,3,2024-09-11,108,Philippines,18-24,Premium,Content_25,Drama,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,108
+39,39,15,4,2024-09-12,60,Indonesia,45+,Free Trial,Content_39,Comedy,Series,,,,,,,60
+179,35,49,6,2024-09-13,294,Philippines,18-24,Premium,Content_35,Documentary,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,294
+198,3,37,7,2024-09-14,259,Indonesia,18-24,Basic,Content_3,Horror,Series,29.0,0.0,0.0,YouTube,Conversion,875.0,259
+198,3,37,7,2024-09-14,259,Indonesia,18-24,Basic,Content_3,Horror,Series,15.0,0.0,0.0,YouTube,Awareness,229.0,259
+198,3,37,7,2024-09-14,259,Indonesia,18-24,Basic,Content_3,Horror,Series,49.0,0.0,0.0,Facebook,Awareness,720.0,259
+198,3,37,7,2024-09-14,259,Indonesia,18-24,Basic,Content_3,Horror,Series,6.0,0.0,0.0,Instagram,Awareness,496.0,259
+134,44,106,4,2024-09-15,424,Philippines,45+,Free Trial,Content_44,Action,Series,1.0,0.0,1.0,Instagram,Retention,535.0,424
+67,51,173,8,2024-09-16,1384,Thailand,45+,Premium,Content_51,Documentary,Movie,,,,,,,1384
+135,94,140,5,2024-09-17,700,Vietnam,35-44,Free Trial,Content_94,Drama,Series,28.0,1.0,1.0,Google Ads,Conversion,901.0,700
+135,94,140,5,2024-09-17,700,Vietnam,35-44,Free Trial,Content_94,Drama,Series,40.0,0.0,0.0,Instagram,Retention,186.0,700
+179,98,15,1,2024-09-18,15,Philippines,18-24,Premium,Content_98,Horror,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,15
+200,12,92,4,2024-09-19,368,Malaysia,45+,Basic,Content_12,Documentary,Series,6.0,1.0,0.0,Instagram,Awareness,496.0,368
+42,19,45,3,2024-09-20,135,Indonesia,45+,Premium,Content_19,Documentary,Series,4.0,0.0,0.0,Instagram,Conversion,120.0,135
+42,19,45,3,2024-09-20,135,Indonesia,45+,Premium,Content_19,Documentary,Series,19.0,0.0,1.0,Instagram,Awareness,196.0,135
+192,44,149,9,2024-09-21,1341,Philippines,45+,Premium,Content_44,Action,Series,1.0,0.0,0.0,Instagram,Retention,535.0,1341
+192,44,149,9,2024-09-21,1341,Philippines,45+,Premium,Content_44,Action,Series,1.0,0.0,1.0,Instagram,Retention,535.0,1341
+244,59,80,8,2024-09-22,640,Vietnam,18-24,Premium,Content_59,Comedy,Movie,47.0,1.0,0.0,Instagram,Conversion,142.0,640
+15,49,125,1,2024-09-23,125,Malaysia,25-34,Free Trial,Content_49,Action,Movie,,,,,,,125
+111,61,50,6,2024-09-24,300,Indonesia,25-34,Free Trial,Content_61,Documentary,Series,,,,,,,300
+157,17,164,9,2024-09-25,1476,Malaysia,25-34,Basic,Content_17,Documentary,Series,,,,,,,1476
+33,74,84,7,2024-09-26,588,Malaysia,45+,Basic,Content_74,Drama,Movie,7.0,0.0,1.0,Facebook,Awareness,724.0,588
+244,57,58,4,2024-09-27,232,Vietnam,18-24,Premium,Content_57,Drama,Movie,47.0,1.0,0.0,Instagram,Conversion,142.0,232
+222,55,90,1,2024-09-28,90,Indonesia,18-24,Free Trial,Content_55,Documentary,Series,17.0,1.0,0.0,Facebook,Conversion,659.0,90
+231,47,96,2,2024-09-29,192,Thailand,18-24,Premium,Content_47,Documentary,Movie,,,,,,,192
+155,12,152,5,2024-09-30,760,Vietnam,25-34,Free Trial,Content_12,Documentary,Series,36.0,1.0,0.0,Facebook,Awareness,566.0,760
+164,62,165,5,2024-10-01,825,Indonesia,25-34,Basic,Content_62,Action,Series,4.0,0.0,0.0,Instagram,Conversion,120.0,825
+157,80,172,8,2024-10-02,1376,Malaysia,25-34,Basic,Content_80,Horror,Series,,,,,,,1376
+38,88,164,6,2024-10-03,984,Philippines,18-24,Basic,Content_88,Comedy,Movie,47.0,0.0,0.0,Instagram,Conversion,142.0,984
+185,83,101,8,2024-10-04,808,Thailand,35-44,Premium,Content_83,Action,Movie,4.0,1.0,1.0,Instagram,Conversion,120.0,808
+97,8,6,2,2024-10-05,12,Philippines,45+,Free Trial,Content_8,Comedy,Movie,37.0,1.0,0.0,Google Ads,Retention,680.0,12
+97,8,6,2,2024-10-05,12,Philippines,45+,Free Trial,Content_8,Comedy,Movie,5.0,1.0,0.0,YouTube,Retention,653.0,12
+229,95,37,3,2024-10-06,111,Vietnam,45+,Free Trial,Content_95,Comedy,Movie,29.0,1.0,0.0,YouTube,Conversion,875.0,111
+155,21,162,6,2024-10-07,972,Vietnam,25-34,Free Trial,Content_21,Comedy,Series,36.0,1.0,0.0,Facebook,Awareness,566.0,972
+183,81,165,3,2024-10-08,495,Indonesia,35-44,Basic,Content_81,Documentary,Movie,5.0,0.0,0.0,YouTube,Retention,653.0,495
+33,87,81,6,2024-10-09,486,Malaysia,45+,Basic,Content_87,Drama,Series,7.0,0.0,1.0,Facebook,Awareness,724.0,486
+196,80,120,6,2024-10-10,720,Vietnam,45+,Free Trial,Content_80,Horror,Series,41.0,1.0,1.0,YouTube,Awareness,200.0,720
+196,80,120,6,2024-10-10,720,Vietnam,45+,Free Trial,Content_80,Horror,Series,21.0,0.0,1.0,YouTube,Retention,341.0,720
+196,80,120,6,2024-10-10,720,Vietnam,45+,Free Trial,Content_80,Horror,Series,29.0,0.0,0.0,YouTube,Conversion,875.0,720
+86,70,158,2,2024-10-11,316,Indonesia,18-24,Free Trial,Content_70,Drama,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,316
+86,70,158,2,2024-10-11,316,Indonesia,18-24,Free Trial,Content_70,Drama,Series,40.0,1.0,0.0,Instagram,Retention,186.0,316
+86,70,158,2,2024-10-11,316,Indonesia,18-24,Free Trial,Content_70,Drama,Series,29.0,1.0,1.0,YouTube,Conversion,875.0,316
+86,70,158,2,2024-10-11,316,Indonesia,18-24,Free Trial,Content_70,Drama,Series,39.0,0.0,0.0,Google Ads,Retention,548.0,316
+66,72,154,7,2024-10-12,1078,Malaysia,18-24,Basic,Content_72,Drama,Series,43.0,0.0,1.0,YouTube,Awareness,944.0,1078
+66,72,154,7,2024-10-12,1078,Malaysia,18-24,Basic,Content_72,Drama,Series,20.0,1.0,0.0,Instagram,Conversion,109.0,1078
+10,25,107,2,2024-10-13,214,Philippines,25-34,Free Trial,Content_25,Drama,Movie,,,,,,,214
+5,82,170,6,2024-10-14,1020,Philippines,45+,Premium,Content_82,Comedy,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,1020
+123,89,107,1,2024-10-15,107,Philippines,35-44,Premium,Content_89,Comedy,Movie,37.0,0.0,0.0,Google Ads,Retention,680.0,107
+74,12,94,3,2024-10-16,282,Thailand,18-24,Basic,Content_12,Documentary,Series,31.0,1.0,0.0,Facebook,Awareness,299.0,282
+74,12,94,3,2024-10-16,282,Thailand,18-24,Basic,Content_12,Documentary,Series,37.0,0.0,0.0,Google Ads,Retention,680.0,282
+74,12,94,3,2024-10-16,282,Thailand,18-24,Basic,Content_12,Documentary,Series,4.0,1.0,0.0,Instagram,Conversion,120.0,282
+97,15,178,2,2024-10-17,356,Philippines,45+,Free Trial,Content_15,Horror,Series,37.0,1.0,0.0,Google Ads,Retention,680.0,356
+97,15,178,2,2024-10-17,356,Philippines,45+,Free Trial,Content_15,Horror,Series,5.0,1.0,0.0,YouTube,Retention,653.0,356
+118,59,126,7,2024-10-18,882,Vietnam,45+,Free Trial,Content_59,Comedy,Movie,,,,,,,882
+38,26,147,4,2024-10-19,588,Philippines,18-24,Basic,Content_26,Drama,Series,47.0,0.0,0.0,Instagram,Conversion,142.0,588
+141,26,110,8,2024-10-20,880,Indonesia,25-34,Basic,Content_26,Drama,Series,,,,,,,880
+159,47,123,6,2024-10-21,738,Indonesia,35-44,Free Trial,Content_47,Documentary,Movie,,,,,,,738
+47,32,176,4,2024-10-22,704,Thailand,25-34,Premium,Content_32,Drama,Movie,16.0,0.0,0.0,Facebook,Conversion,671.0,704
+228,10,53,5,2024-10-23,265,Thailand,18-24,Premium,Content_10,Action,Movie,9.0,1.0,0.0,Google Ads,Awareness,291.0,265
+109,16,108,9,2024-10-24,972,Vietnam,25-34,Basic,Content_16,Documentary,Movie,12.0,1.0,0.0,YouTube,Conversion,492.0,972
+109,16,108,9,2024-10-24,972,Vietnam,25-34,Basic,Content_16,Documentary,Movie,26.0,0.0,0.0,Facebook,Awareness,814.0,972
+216,71,65,7,2024-10-25,455,Vietnam,35-44,Basic,Content_71,Horror,Series,31.0,1.0,1.0,Facebook,Awareness,299.0,455
+216,71,65,7,2024-10-25,455,Vietnam,35-44,Basic,Content_71,Horror,Series,44.0,0.0,0.0,Facebook,Conversion,299.0,455
+180,17,127,9,2024-10-26,1143,Indonesia,45+,Premium,Content_17,Documentary,Series,24.0,1.0,0.0,Google Ads,Awareness,888.0,1143
+184,23,138,7,2024-10-27,966,Thailand,25-34,Premium,Content_23,Action,Movie,2.0,0.0,0.0,Facebook,Retention,521.0,966
+15,26,13,1,2024-10-28,13,Malaysia,25-34,Free Trial,Content_26,Drama,Series,,,,,,,13
+157,85,10,8,2024-10-29,80,Malaysia,25-34,Basic,Content_85,Documentary,Movie,,,,,,,80
+136,86,77,4,2024-10-30,308,Vietnam,18-24,Premium,Content_86,Documentary,Series,,,,,,,308
+5,7,107,3,2024-10-31,321,Philippines,45+,Premium,Content_7,Horror,Movie,23.0,1.0,0.0,Google Ads,Retention,331.0,321
+157,14,164,7,2024-11-01,1148,Malaysia,25-34,Basic,Content_14,Documentary,Movie,,,,,,,1148
+47,79,45,3,2024-11-02,135,Thailand,25-34,Premium,Content_79,Action,Movie,16.0,0.0,0.0,Facebook,Conversion,671.0,135
+68,7,118,8,2024-11-03,944,Thailand,18-24,Premium,Content_7,Horror,Movie,43.0,0.0,0.0,YouTube,Awareness,944.0,944
+76,9,12,6,2024-11-04,72,Thailand,18-24,Basic,Content_9,Action,Movie,44.0,1.0,0.0,Facebook,Conversion,299.0,72
+173,48,76,5,2024-11-05,380,Thailand,25-34,Basic,Content_48,Horror,Series,,,,,,,380
+130,72,96,4,2024-11-06,384,Philippines,18-24,Free Trial,Content_72,Drama,Series,19.0,0.0,0.0,Instagram,Awareness,196.0,384
+155,59,66,8,2024-11-07,528,Vietnam,25-34,Free Trial,Content_59,Comedy,Movie,36.0,1.0,0.0,Facebook,Awareness,566.0,528
+95,87,88,8,2024-11-08,704,Indonesia,45+,Premium,Content_87,Drama,Series,,,,,,,704
+115,93,66,1,2024-11-09,66,Indonesia,25-34,Free Trial,Content_93,Drama,Series,49.0,0.0,1.0,Facebook,Awareness,720.0,66
+243,82,115,9,2024-11-10,1035,Indonesia,18-24,Free Trial,Content_82,Comedy,Movie,44.0,0.0,0.0,Facebook,Conversion,299.0,1035
+164,95,131,5,2024-11-11,655,Indonesia,25-34,Basic,Content_95,Comedy,Movie,4.0,0.0,0.0,Instagram,Conversion,120.0,655
+36,94,11,4,2024-11-12,44,Philippines,35-44,Basic,Content_94,Drama,Series,21.0,0.0,1.0,YouTube,Retention,341.0,44
+26,39,88,6,2024-11-13,528,Vietnam,18-24,Basic,Content_39,Comedy,Series,14.0,0.0,0.0,Facebook,Retention,228.0,528
+43,99,136,6,2024-11-14,816,Malaysia,35-44,Basic,Content_99,Action,Movie,25.0,0.0,0.0,Google Ads,Awareness,383.0,816
+27,18,138,2,2024-11-15,276,Vietnam,45+,Free Trial,Content_18,Comedy,Series,38.0,1.0,0.0,Google Ads,Awareness,515.0,276
+27,18,138,2,2024-11-15,276,Vietnam,45+,Free Trial,Content_18,Comedy,Series,42.0,0.0,1.0,Instagram,Retention,107.0,276
+69,59,62,8,2024-11-16,496,Malaysia,45+,Free Trial,Content_59,Comedy,Movie,50.0,1.0,0.0,YouTube,Awareness,534.0,496
+69,59,62,8,2024-11-16,496,Malaysia,45+,Free Trial,Content_59,Comedy,Movie,35.0,0.0,0.0,Google Ads,Awareness,272.0,496
+148,17,26,7,2024-11-17,182,Vietnam,18-24,Premium,Content_17,Documentary,Series,32.0,0.0,0.0,Facebook,Awareness,178.0,182
+148,17,26,7,2024-11-17,182,Vietnam,18-24,Premium,Content_17,Documentary,Series,20.0,1.0,0.0,Instagram,Conversion,109.0,182
+11,14,158,1,2024-11-18,158,Malaysia,18-24,Free Trial,Content_14,Documentary,Movie,10.0,0.0,0.0,YouTube,Conversion,116.0,158
+74,31,131,5,2024-11-19,655,Thailand,18-24,Basic,Content_31,Action,Movie,31.0,1.0,0.0,Facebook,Awareness,299.0,655
+74,31,131,5,2024-11-19,655,Thailand,18-24,Basic,Content_31,Action,Movie,37.0,0.0,0.0,Google Ads,Retention,680.0,655
+74,31,131,5,2024-11-19,655,Thailand,18-24,Basic,Content_31,Action,Movie,4.0,1.0,0.0,Instagram,Conversion,120.0,655
+104,24,7,6,2024-11-20,42,Thailand,45+,Free Trial,Content_24,Drama,Series,30.0,0.0,0.0,Google Ads,Awareness,825.0,42
+38,99,131,4,2024-11-21,524,Philippines,18-24,Basic,Content_99,Action,Movie,47.0,0.0,0.0,Instagram,Conversion,142.0,524
+134,60,45,2,2024-11-22,90,Philippines,45+,Free Trial,Content_60,Action,Series,1.0,0.0,1.0,Instagram,Retention,535.0,90
+200,45,110,4,2024-11-23,440,Malaysia,45+,Basic,Content_45,Comedy,Series,6.0,1.0,0.0,Instagram,Awareness,496.0,440
+23,98,18,1,2024-11-24,18,Malaysia,18-24,Premium,Content_98,Horror,Movie,35.0,1.0,0.0,Google Ads,Awareness,272.0,18
+47,3,16,7,2024-11-25,112,Thailand,25-34,Premium,Content_3,Horror,Series,16.0,0.0,0.0,Facebook,Conversion,671.0,112
+90,37,91,2,2024-11-26,182,Vietnam,18-24,Basic,Content_37,Action,Movie,,,,,,,182
+46,43,16,2,2024-11-27,32,Indonesia,35-44,Basic,Content_43,Drama,Series,47.0,1.0,0.0,Instagram,Conversion,142.0,32
+107,40,145,9,2024-11-28,1305,Vietnam,25-34,Premium,Content_40,Action,Series,15.0,0.0,0.0,YouTube,Awareness,229.0,1305
+107,40,145,9,2024-11-28,1305,Vietnam,25-34,Premium,Content_40,Action,Series,36.0,1.0,0.0,Facebook,Awareness,566.0,1305
+107,40,145,9,2024-11-28,1305,Vietnam,25-34,Premium,Content_40,Action,Series,36.0,1.0,1.0,Facebook,Awareness,566.0,1305
+107,40,145,9,2024-11-28,1305,Vietnam,25-34,Premium,Content_40,Action,Series,11.0,0.0,0.0,Facebook,Retention,219.0,1305
+140,90,29,5,2024-11-29,145,Philippines,35-44,Free Trial,Content_90,Horror,Series,30.0,0.0,0.0,Google Ads,Awareness,825.0,145
+218,55,49,2,2024-11-30,98,Malaysia,45+,Free Trial,Content_55,Documentary,Series,20.0,0.0,0.0,Instagram,Conversion,109.0,98
+141,87,126,9,2024-12-01,1134,Indonesia,25-34,Basic,Content_87,Drama,Series,,,,,,,1134
+104,39,151,9,2024-12-02,1359,Thailand,45+,Free Trial,Content_39,Comedy,Series,30.0,0.0,0.0,Google Ads,Awareness,825.0,1359
+190,15,59,1,2024-12-03,59,Vietnam,18-24,Basic,Content_15,Horror,Series,,,,,,,59
+210,4,104,3,2024-12-04,312,Malaysia,45+,Premium,Content_4,Horror,Series,27.0,0.0,0.0,Google Ads,Awareness,858.0,312
+210,4,104,3,2024-12-04,312,Malaysia,45+,Premium,Content_4,Horror,Series,18.0,0.0,0.0,Google Ads,Retention,128.0,312
+217,93,177,4,2024-12-05,708,Malaysia,35-44,Basic,Content_93,Drama,Series,20.0,0.0,0.0,Instagram,Conversion,109.0,708
+217,93,177,4,2024-12-05,708,Malaysia,35-44,Basic,Content_93,Drama,Series,28.0,0.0,1.0,Google Ads,Conversion,901.0,708
+225,86,140,7,2024-12-06,980,Indonesia,25-34,Premium,Content_86,Documentary,Series,,,,,,,980
+111,25,123,4,2024-12-07,492,Indonesia,25-34,Free Trial,Content_25,Drama,Movie,,,,,,,492
+104,13,57,2,2024-12-08,114,Thailand,45+,Free Trial,Content_13,Horror,Series,30.0,0.0,0.0,Google Ads,Awareness,825.0,114
+60,82,36,7,2024-12-09,252,Thailand,25-34,Free Trial,Content_82,Comedy,Movie,31.0,0.0,0.0,Facebook,Awareness,299.0,252
+60,82,36,7,2024-12-09,252,Thailand,25-34,Free Trial,Content_82,Comedy,Movie,36.0,0.0,0.0,Facebook,Awareness,566.0,252
+171,33,55,6,2024-12-10,330,Indonesia,25-34,Free Trial,Content_33,Action,Movie,21.0,0.0,0.0,YouTube,Retention,341.0,330
+204,16,48,3,2024-12-11,144,Indonesia,35-44,Premium,Content_16,Documentary,Movie,,,,,,,144
+236,42,86,6,2024-12-12,516,Thailand,25-34,Premium,Content_42,Action,Series,15.0,1.0,0.0,YouTube,Awareness,229.0,516
+100,66,150,6,2024-12-13,900,Indonesia,18-24,Basic,Content_66,Documentary,Series,,,,,,,900
+240,55,154,5,2024-12-14,770,Philippines,45+,Basic,Content_55,Documentary,Series,,,,,,,770
+68,99,41,4,2024-12-15,164,Thailand,18-24,Premium,Content_99,Action,Movie,43.0,0.0,0.0,YouTube,Awareness,944.0,164
+133,42,100,1,2024-12-16,100,Malaysia,25-34,Premium,Content_42,Action,Series,5.0,1.0,0.0,YouTube,Retention,653.0,100
+120,34,60,6,2024-12-17,360,Thailand,25-34,Free Trial,Content_34,Comedy,Movie,32.0,1.0,0.0,Facebook,Awareness,178.0,360
+120,34,60,6,2024-12-17,360,Thailand,25-34,Free Trial,Content_34,Comedy,Movie,17.0,0.0,1.0,Facebook,Conversion,659.0,360
+120,34,60,6,2024-12-17,360,Thailand,25-34,Free Trial,Content_34,Comedy,Movie,39.0,0.0,0.0,Google Ads,Retention,548.0,360
+37,30,109,2,2024-12-18,218,Vietnam,35-44,Premium,Content_30,Action,Movie,,,,,,,218
+72,13,63,3,2024-12-19,189,Philippines,35-44,Basic,Content_13,Horror,Series,3.0,1.0,0.0,Instagram,Conversion,653.0,189
+127,13,135,8,2024-12-20,1080,Philippines,25-34,Basic,Content_13,Horror,Series,36.0,0.0,0.0,Facebook,Awareness,566.0,1080
+127,13,135,8,2024-12-20,1080,Philippines,25-34,Basic,Content_13,Horror,Series,13.0,1.0,0.0,YouTube,Conversion,524.0,1080
+127,13,135,8,2024-12-20,1080,Philippines,25-34,Basic,Content_13,Horror,Series,34.0,0.0,0.0,Google Ads,Awareness,955.0,1080
+106,18,160,6,2024-12-21,960,Philippines,45+,Free Trial,Content_18,Comedy,Series,11.0,0.0,0.0,Facebook,Retention,219.0,960
+106,18,160,6,2024-12-21,960,Philippines,45+,Free Trial,Content_18,Comedy,Series,48.0,0.0,1.0,Google Ads,Retention,484.0,960
+241,32,39,3,2024-12-22,117,Vietnam,18-24,Premium,Content_32,Drama,Movie,,,,,,,117
+92,96,97,7,2024-12-23,679,Indonesia,18-24,Free Trial,Content_96,Comedy,Series,13.0,0.0,0.0,YouTube,Conversion,524.0,679
+31,99,101,4,2024-12-24,404,Vietnam,45+,Basic,Content_99,Action,Movie,24.0,0.0,0.0,Google Ads,Awareness,888.0,404
+122,39,139,9,2024-12-25,1251,Malaysia,25-34,Free Trial,Content_39,Comedy,Series,,,,,,,1251
+137,46,80,5,2024-12-26,400,Malaysia,25-34,Free Trial,Content_46,Action,Movie,37.0,1.0,0.0,Google Ads,Retention,680.0,400
+137,46,80,5,2024-12-26,400,Malaysia,25-34,Free Trial,Content_46,Action,Movie,27.0,0.0,0.0,Google Ads,Awareness,858.0,400
+246,29,53,3,2024-12-27,159,Vietnam,45+,Basic,Content_29,Documentary,Series,20.0,0.0,0.0,Instagram,Conversion,109.0,159
+51,62,98,2,2024-12-28,196,Malaysia,25-34,Premium,Content_62,Action,Series,21.0,1.0,0.0,YouTube,Retention,341.0,196
+29,93,163,2,2024-12-29,326,Malaysia,25-34,Basic,Content_93,Drama,Series,,,,,,,326
+206,62,28,3,2024-12-30,84,Vietnam,45+,Premium,Content_62,Action,Series,,,,,,,84
+40,57,152,2,2024-12-31,304,Thailand,18-24,Free Trial,Content_57,Drama,Movie,19.0,0.0,0.0,Instagram,Awareness,196.0,304
+41,16,41,4,2025-01-01,164,Malaysia,45+,Free Trial,Content_16,Documentary,Movie,7.0,0.0,0.0,Facebook,Awareness,724.0,164
+214,56,8,2,2025-01-02,16,Thailand,18-24,Basic,Content_56,Documentary,Movie,21.0,0.0,0.0,YouTube,Retention,341.0,16
+214,56,8,2,2025-01-02,16,Thailand,18-24,Basic,Content_56,Documentary,Movie,41.0,1.0,0.0,YouTube,Awareness,200.0,16
+11,10,112,9,2025-01-03,1008,Malaysia,18-24,Free Trial,Content_10,Action,Movie,10.0,0.0,0.0,YouTube,Conversion,116.0,1008
+151,30,130,2,2025-01-04,260,Indonesia,45+,Premium,Content_30,Action,Movie,,,,,,,260
+1,25,24,9,2025-01-05,216,Malaysia,18-24,Free Trial,Content_25,Drama,Movie,,,,,,,216
+46,84,156,6,2025-01-06,936,Indonesia,35-44,Basic,Content_84,Action,Series,47.0,1.0,0.0,Instagram,Conversion,142.0,936
+101,5,54,1,2025-01-07,54,Malaysia,45+,Free Trial,Content_5,Documentary,Movie,18.0,1.0,0.0,Google Ads,Retention,128.0,54
+101,5,54,1,2025-01-07,54,Malaysia,45+,Free Trial,Content_5,Documentary,Movie,45.0,1.0,0.0,Google Ads,Conversion,604.0,54
+149,65,100,4,2025-01-08,400,Thailand,45+,Premium,Content_65,Documentary,Movie,34.0,1.0,0.0,Google Ads,Awareness,955.0,400
+90,94,109,1,2025-01-09,109,Vietnam,18-24,Basic,Content_94,Drama,Series,,,,,,,109
+110,49,168,6,2025-01-10,1008,Vietnam,35-44,Free Trial,Content_49,Action,Movie,25.0,0.0,0.0,Google Ads,Awareness,383.0,1008
+110,49,168,6,2025-01-10,1008,Vietnam,35-44,Free Trial,Content_49,Action,Movie,4.0,0.0,0.0,Instagram,Conversion,120.0,1008
+164,3,121,4,2025-01-11,484,Indonesia,25-34,Basic,Content_3,Horror,Series,4.0,0.0,0.0,Instagram,Conversion,120.0,484
+182,45,102,3,2025-01-12,306,Vietnam,25-34,Free Trial,Content_45,Comedy,Series,47.0,0.0,0.0,Instagram,Conversion,142.0,306
+215,14,70,3,2025-01-13,210,Vietnam,45+,Free Trial,Content_14,Documentary,Movie,,,,,,,210
+57,30,83,9,2025-01-14,747,Malaysia,35-44,Basic,Content_30,Action,Movie,35.0,0.0,0.0,Google Ads,Awareness,272.0,747
+57,30,83,9,2025-01-14,747,Malaysia,35-44,Basic,Content_30,Action,Movie,9.0,1.0,1.0,Google Ads,Awareness,291.0,747
+57,30,83,9,2025-01-14,747,Malaysia,35-44,Basic,Content_30,Action,Movie,22.0,0.0,1.0,YouTube,Conversion,925.0,747
+1,68,166,6,2025-01-15,996,Malaysia,18-24,Free Trial,Content_68,Action,Movie,,,,,,,996
+63,18,168,9,2025-01-16,1512,Philippines,35-44,Basic,Content_18,Comedy,Series,5.0,0.0,0.0,YouTube,Retention,653.0,1512
+63,18,168,9,2025-01-16,1512,Philippines,35-44,Basic,Content_18,Comedy,Series,9.0,0.0,0.0,Google Ads,Awareness,291.0,1512
+182,62,10,5,2025-01-17,50,Vietnam,25-34,Free Trial,Content_62,Action,Series,47.0,0.0,0.0,Instagram,Conversion,142.0,50
+55,37,43,2,2025-01-18,86,Vietnam,45+,Free Trial,Content_37,Action,Movie,24.0,1.0,0.0,Google Ads,Awareness,888.0,86
+115,25,174,8,2025-01-19,1392,Indonesia,25-34,Free Trial,Content_25,Drama,Movie,49.0,0.0,1.0,Facebook,Awareness,720.0,1392
+168,48,119,5,2025-01-20,595,Vietnam,25-34,Basic,Content_48,Horror,Series,37.0,0.0,1.0,Google Ads,Retention,680.0,595
+168,48,119,5,2025-01-20,595,Vietnam,25-34,Basic,Content_48,Horror,Series,26.0,1.0,0.0,Facebook,Awareness,814.0,595
+143,65,129,2,2025-01-21,258,Malaysia,45+,Premium,Content_65,Documentary,Movie,12.0,0.0,0.0,YouTube,Conversion,492.0,258
+143,65,129,2,2025-01-21,258,Malaysia,45+,Premium,Content_65,Documentary,Movie,16.0,0.0,0.0,Facebook,Conversion,671.0,258
+143,65,129,2,2025-01-21,258,Malaysia,45+,Premium,Content_65,Documentary,Movie,46.0,0.0,0.0,YouTube,Conversion,186.0,258
+143,65,129,2,2025-01-21,258,Malaysia,45+,Premium,Content_65,Documentary,Movie,4.0,1.0,1.0,Instagram,Conversion,120.0,258
+149,53,16,4,2025-01-22,64,Thailand,45+,Premium,Content_53,Documentary,Series,34.0,1.0,0.0,Google Ads,Awareness,955.0,64
+175,79,135,9,2025-01-23,1215,Malaysia,25-34,Free Trial,Content_79,Action,Movie,,,,,,,1215
+201,73,22,4,2025-01-24,88,Thailand,25-34,Free Trial,Content_73,Drama,Series,,,,,,,88
+53,15,44,4,2025-01-25,176,Malaysia,35-44,Free Trial,Content_15,Horror,Series,,,,,,,176
+137,49,25,2,2025-01-26,50,Malaysia,25-34,Free Trial,Content_49,Action,Movie,37.0,1.0,0.0,Google Ads,Retention,680.0,50
+137,49,25,2,2025-01-26,50,Malaysia,25-34,Free Trial,Content_49,Action,Movie,27.0,0.0,0.0,Google Ads,Awareness,858.0,50
+202,88,147,6,2025-01-27,882,Vietnam,35-44,Premium,Content_88,Comedy,Movie,,,,,,,882
+180,68,103,2,2025-01-28,206,Indonesia,45+,Premium,Content_68,Action,Movie,24.0,1.0,0.0,Google Ads,Awareness,888.0,206
+57,12,30,7,2025-01-29,210,Malaysia,35-44,Basic,Content_12,Documentary,Series,35.0,0.0,0.0,Google Ads,Awareness,272.0,210
+57,12,30,7,2025-01-29,210,Malaysia,35-44,Basic,Content_12,Documentary,Series,9.0,1.0,1.0,Google Ads,Awareness,291.0,210
+57,12,30,7,2025-01-29,210,Malaysia,35-44,Basic,Content_12,Documentary,Series,22.0,0.0,1.0,YouTube,Conversion,925.0,210
+117,59,12,3,2025-01-30,36,Thailand,25-34,Premium,Content_59,Comedy,Movie,18.0,1.0,0.0,Google Ads,Retention,128.0,36
+154,37,104,3,2025-01-31,312,Indonesia,45+,Premium,Content_37,Action,Movie,10.0,0.0,1.0,YouTube,Conversion,116.0,312
+154,37,104,3,2025-01-31,312,Indonesia,45+,Premium,Content_37,Action,Movie,42.0,0.0,0.0,Instagram,Retention,107.0,312
+154,37,104,3,2025-01-31,312,Indonesia,45+,Premium,Content_37,Action,Movie,21.0,1.0,0.0,YouTube,Retention,341.0,312
+169,61,91,5,2025-02-01,455,Indonesia,35-44,Basic,Content_61,Documentary,Series,12.0,0.0,1.0,YouTube,Conversion,492.0,455
+169,61,91,5,2025-02-01,455,Indonesia,35-44,Basic,Content_61,Documentary,Series,22.0,1.0,0.0,YouTube,Conversion,925.0,455
+35,43,46,3,2025-02-02,138,Vietnam,45+,Basic,Content_43,Drama,Series,,,,,,,138
+63,70,176,2,2025-02-03,352,Philippines,35-44,Basic,Content_70,Drama,Series,5.0,0.0,0.0,YouTube,Retention,653.0,352
+63,70,176,2,2025-02-03,352,Philippines,35-44,Basic,Content_70,Drama,Series,9.0,0.0,0.0,Google Ads,Awareness,291.0,352

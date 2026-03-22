@@ -1,0 +1,251 @@
+User_ID,Region,Age_Group,Subscription_Type
+1,Malaysia,18-24,Free Trial
+2,Philippines,45+,Basic
+3,Vietnam,45+,Free Trial
+4,Philippines,25-34,Premium
+5,Philippines,45+,Premium
+6,Thailand,45+,Basic
+7,Vietnam,25-34,Premium
+8,Vietnam,35-44,Free Trial
+9,Vietnam,45+,Basic
+10,Philippines,25-34,Free Trial
+11,Malaysia,18-24,Free Trial
+12,Vietnam,35-44,Basic
+13,Philippines,18-24,Free Trial
+14,Thailand,18-24,Premium
+15,Malaysia,25-34,Free Trial
+16,Thailand,45+,Basic
+17,Malaysia,25-34,Basic
+18,Philippines,25-34,Basic
+19,Indonesia,25-34,Free Trial
+20,Malaysia,25-34,Basic
+21,Thailand,35-44,Basic
+22,Philippines,45+,Free Trial
+23,Malaysia,18-24,Premium
+24,Indonesia,18-24,Free Trial
+25,Indonesia,45+,Basic
+26,Vietnam,18-24,Basic
+27,Vietnam,45+,Free Trial
+28,Thailand,18-24,Premium
+29,Malaysia,25-34,Basic
+30,Malaysia,18-24,Basic
+31,Vietnam,45+,Basic
+32,Malaysia,45+,Free Trial
+33,Malaysia,45+,Basic
+34,Indonesia,45+,Premium
+35,Vietnam,45+,Basic
+36,Philippines,35-44,Basic
+37,Vietnam,35-44,Premium
+38,Philippines,18-24,Basic
+39,Indonesia,45+,Free Trial
+40,Thailand,18-24,Free Trial
+41,Malaysia,45+,Free Trial
+42,Indonesia,45+,Premium
+43,Malaysia,35-44,Basic
+44,Thailand,35-44,Free Trial
+45,Thailand,25-34,Premium
+46,Indonesia,35-44,Basic
+47,Thailand,25-34,Premium
+48,Philippines,25-34,Free Trial
+49,Thailand,25-34,Free Trial
+50,Malaysia,25-34,Free Trial
+51,Malaysia,25-34,Premium
+52,Malaysia,18-24,Premium
+53,Malaysia,35-44,Free Trial
+54,Philippines,25-34,Premium
+55,Vietnam,45+,Free Trial
+56,Indonesia,35-44,Free Trial
+57,Malaysia,35-44,Basic
+58,Thailand,25-34,Premium
+59,Malaysia,18-24,Free Trial
+60,Thailand,25-34,Free Trial
+61,Thailand,18-24,Premium
+62,Malaysia,45+,Basic
+63,Philippines,35-44,Basic
+64,Thailand,45+,Free Trial
+65,Thailand,18-24,Premium
+66,Malaysia,18-24,Basic
+67,Thailand,45+,Premium
+68,Thailand,18-24,Premium
+69,Malaysia,45+,Free Trial
+70,Malaysia,35-44,Basic
+71,Indonesia,45+,Free Trial
+72,Philippines,35-44,Basic
+73,Philippines,45+,Basic
+74,Thailand,18-24,Basic
+75,Philippines,45+,Basic
+76,Thailand,18-24,Basic
+77,Indonesia,45+,Premium
+78,Malaysia,45+,Free Trial
+79,Malaysia,25-34,Premium
+80,Malaysia,18-24,Basic
+81,Philippines,25-34,Free Trial
+82,Indonesia,18-24,Basic
+83,Philippines,25-34,Free Trial
+84,Philippines,35-44,Premium
+85,Indonesia,45+,Free Trial
+86,Indonesia,18-24,Free Trial
+87,Indonesia,18-24,Free Trial
+88,Indonesia,45+,Free Trial
+89,Malaysia,18-24,Free Trial
+90,Vietnam,18-24,Basic
+91,Vietnam,25-34,Free Trial
+92,Indonesia,18-24,Free Trial
+93,Vietnam,35-44,Premium
+94,Vietnam,35-44,Free Trial
+95,Indonesia,45+,Premium
+96,Vietnam,18-24,Basic
+97,Philippines,45+,Free Trial
+98,Thailand,35-44,Premium
+99,Thailand,18-24,Premium
+100,Indonesia,18-24,Basic
+101,Malaysia,45+,Free Trial
+102,Indonesia,35-44,Free Trial
+103,Malaysia,18-24,Premium
+104,Thailand,45+,Free Trial
+105,Indonesia,35-44,Premium
+106,Philippines,45+,Free Trial
+107,Vietnam,25-34,Premium
+108,Malaysia,18-24,Free Trial
+109,Vietnam,25-34,Basic
+110,Vietnam,35-44,Free Trial
+111,Indonesia,25-34,Free Trial
+112,Vietnam,25-34,Basic
+113,Philippines,35-44,Free Trial
+114,Vietnam,45+,Basic
+115,Indonesia,25-34,Free Trial
+116,Philippines,45+,Premium
+117,Thailand,25-34,Premium
+118,Vietnam,45+,Free Trial
+119,Indonesia,35-44,Free Trial
+120,Thailand,25-34,Free Trial
+121,Thailand,35-44,Premium
+122,Malaysia,25-34,Free Trial
+123,Philippines,35-44,Premium
+124,Vietnam,35-44,Basic
+125,Indonesia,25-34,Premium
+126,Malaysia,25-34,Premium
+127,Philippines,25-34,Basic
+128,Malaysia,18-24,Premium
+129,Philippines,45+,Free Trial
+130,Philippines,18-24,Free Trial
+131,Vietnam,18-24,Premium
+132,Philippines,35-44,Free Trial
+133,Malaysia,25-34,Premium
+134,Philippines,45+,Free Trial
+135,Vietnam,35-44,Free Trial
+136,Vietnam,18-24,Premium
+137,Malaysia,25-34,Free Trial
+138,Thailand,35-44,Premium
+139,Thailand,25-34,Free Trial
+140,Philippines,35-44,Free Trial
+141,Indonesia,25-34,Basic
+142,Philippines,18-24,Basic
+143,Malaysia,45+,Premium
+144,Malaysia,18-24,Basic
+145,Malaysia,45+,Premium
+146,Malaysia,25-34,Basic
+147,Malaysia,35-44,Free Trial
+148,Vietnam,18-24,Premium
+149,Thailand,45+,Premium
+150,Malaysia,18-24,Free Trial
+151,Indonesia,45+,Premium
+152,Indonesia,18-24,Premium
+153,Indonesia,45+,Basic
+154,Indonesia,45+,Premium
+155,Vietnam,25-34,Free Trial
+156,Indonesia,45+,Basic
+157,Malaysia,25-34,Basic
+158,Philippines,45+,Free Trial
+159,Indonesia,35-44,Free Trial
+160,Vietnam,35-44,Basic
+161,Vietnam,35-44,Premium
+162,Indonesia,45+,Basic
+163,Philippines,25-34,Free Trial
+164,Indonesia,25-34,Basic
+165,Vietnam,45+,Free Trial
+166,Thailand,35-44,Basic
+167,Malaysia,35-44,Premium
+168,Vietnam,25-34,Basic
+169,Indonesia,35-44,Basic
+170,Malaysia,18-24,Free Trial
+171,Indonesia,25-34,Free Trial
+172,Indonesia,35-44,Free Trial
+173,Thailand,25-34,Basic
+174,Malaysia,18-24,Premium
+175,Malaysia,25-34,Free Trial
+176,Thailand,25-34,Free Trial
+177,Vietnam,25-34,Basic
+178,Indonesia,25-34,Free Trial
+179,Philippines,18-24,Premium
+180,Indonesia,45+,Premium
+181,Indonesia,25-34,Free Trial
+182,Vietnam,25-34,Free Trial
+183,Indonesia,35-44,Basic
+184,Thailand,25-34,Premium
+185,Thailand,35-44,Premium
+186,Malaysia,45+,Free Trial
+187,Philippines,18-24,Basic
+188,Indonesia,18-24,Premium
+189,Indonesia,45+,Premium
+190,Vietnam,18-24,Basic
+191,Thailand,45+,Basic
+192,Philippines,45+,Premium
+193,Malaysia,45+,Premium
+194,Thailand,18-24,Basic
+195,Malaysia,35-44,Premium
+196,Vietnam,45+,Free Trial
+197,Vietnam,25-34,Free Trial
+198,Indonesia,18-24,Basic
+199,Philippines,45+,Basic
+200,Malaysia,45+,Basic
+201,Thailand,25-34,Free Trial
+202,Vietnam,35-44,Premium
+203,Indonesia,35-44,Free Trial
+204,Indonesia,35-44,Premium
+205,Malaysia,45+,Free Trial
+206,Vietnam,45+,Premium
+207,Philippines,45+,Free Trial
+208,Vietnam,18-24,Basic
+209,Malaysia,25-34,Free Trial
+210,Malaysia,45+,Premium
+211,Vietnam,25-34,Free Trial
+212,Malaysia,25-34,Free Trial
+213,Vietnam,35-44,Free Trial
+214,Thailand,18-24,Basic
+215,Vietnam,45+,Free Trial
+216,Vietnam,35-44,Basic
+217,Malaysia,35-44,Basic
+218,Malaysia,45+,Free Trial
+219,Indonesia,25-34,Free Trial
+220,Indonesia,35-44,Free Trial
+221,Thailand,25-34,Premium
+222,Indonesia,18-24,Free Trial
+223,Vietnam,25-34,Basic
+224,Malaysia,18-24,Free Trial
+225,Indonesia,25-34,Premium
+226,Indonesia,35-44,Free Trial
+227,Thailand,35-44,Premium
+228,Thailand,18-24,Premium
+229,Vietnam,45+,Free Trial
+230,Malaysia,18-24,Basic
+231,Thailand,18-24,Premium
+232,Indonesia,25-34,Free Trial
+233,Malaysia,25-34,Free Trial
+234,Malaysia,18-24,Basic
+235,Indonesia,35-44,Premium
+236,Thailand,25-34,Premium
+237,Indonesia,45+,Free Trial
+238,Malaysia,25-34,Free Trial
+239,Philippines,25-34,Basic
+240,Philippines,45+,Basic
+241,Vietnam,18-24,Premium
+242,Indonesia,45+,Premium
+243,Indonesia,18-24,Free Trial
+244,Vietnam,18-24,Premium
+245,Vietnam,18-24,Basic
+246,Vietnam,45+,Basic
+247,Malaysia,18-24,Free Trial
+248,Indonesia,35-44,Basic
+249,Malaysia,45+,Basic
+250,Vietnam,35-44,Basic
